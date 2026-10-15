@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "known former",
-        "Showalter:",
-        "Baltzell Showalter",
-        "Batalha",
         "The Monastery",
         "Sayed",
         "Islam: Sayed",
@@ -99,7 +95,11 @@
         "novel): Bedlam",
         "for the",
         "Abelard",
-        "Abelard Snazz"
+        "Abelard Snazz",
+        "André",
+        "André Cerbonney",
+        "Competed",
+        "men's 100"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -175,6 +175,8 @@
         "Disconnected --[(funkstörung]--> album): Disconnected",
         "Bedlam --[(kennen]--> novel): Bedlam",
         "Was --[nominated]--> for the",
-        "Abelard --[snazz:]--> Abelard Snazz"
+        "Abelard --[snazz:]--> Abelard Snazz",
+        "André --[cerbonney:]--> André Cerbonney",
+        "Competed --[the]--> men's 100"
     ]
 }
