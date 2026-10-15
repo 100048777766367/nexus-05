@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The Monastery",
-        "Sayed",
-        "Islam: Sayed",
         "Was",
         "general secretary",
         "Patrick",
@@ -99,7 +96,10 @@
         "André",
         "André Cerbonney",
         "Competed",
-        "men's 100"
+        "men's 100",
+        "Chicago",
+        "game: The",
+        "game, played"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -177,6 +177,8 @@
         "Was --[nominated]--> for the",
         "Abelard --[snazz:]--> Abelard Snazz",
         "André --[cerbonney:]--> André Cerbonney",
-        "Competed --[the]--> men's 100"
+        "Competed --[the]--> men's 100",
+        "Chicago --[football]--> game: The",
+        "Chicago --[football]--> game, played"
     ]
 }
