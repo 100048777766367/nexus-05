@@ -1,20 +1,15 @@
 from mechanisms.base import BaseMechanism
 
 class TransmuterMechanism(BaseMechanism):
-    """
-    BỘ BIẾN HÌNH TRI THỨC TOÀN NĂNG:
-    Dịch chuyển phán quyết trung ương thành các dạng thức tri thức chuyên biệt
-    cho từng cơ quan từ Level 1 đến Level 10 trong đại hệ sinh thái.
-    """
     name = "transmuter"
-    priority = 37  # Chạy ngay sau khi có phán quyết trung ương
+    priority = 35  # Chạy ngay sau khi có phán quyết trung ương
 
     def execute(self, context):
         decision = context.get("final_decision", 0.5)
         grad = context.get("grad_backward", [0.0, 0.0])
         wisdom_vec = context.get("wisdom_vector", [0.5, 0.5, 0.5, 0.5])
 
-        # 5 CẤP ĐỘ BIẾN HÌNH TRI THỨC:
+        # 5 CẤP ĐỘ BIẾN HÌNH TRI THỨC CHO 11 TẦNG:
         transmuted_signals = {
             # CẤP 1: CẢM THỤ (retina & cochlea)
             "retina": {
@@ -40,9 +35,9 @@ class TransmuterMechanism(BaseMechanism):
             # CẤP 3: HÀNH ĐỘNG CƠ BẮP LY TÂM (motor)
             "motor": {
                 "action_vector": [
-                    round(decision - 0.5, 4),          # dx: Hướng dạt trái/phải
-                    round(abs(decision - 0.5), 4),      # dy: Bước tiến phía trước
-                    round(sum(grad) * 10.0, 4)          # F:  Lực co thắt cơ bắp
+                    round(decision - 0.5, 4),
+                    round(abs(decision - 0.5), 4),
+                    round(sum(grad) * 10.0, 4)
                 ],
                 "muscle_state": "contract" if decision > 0.5 else "relax"
             },
