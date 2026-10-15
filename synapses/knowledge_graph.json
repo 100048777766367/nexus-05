@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sir",
-        "Comes Lunch:",
         "Wodehouse,",
         "features the",
         "Ferwerderadiel:",
@@ -99,7 +97,9 @@
         "Where",
         "and Biology",
         "Jazz",
-        "Suite: Jazz"
+        "Suite: Jazz",
+        "Love",
+        "Love Dance"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -168,6 +168,7 @@
         "Chef --[and]--> owner Amanda",
         "Qatar --[national]--> football team:",
         "Where --[reincarnation]--> and Biology",
-        "Jazz --[café]--> Suite: Jazz"
+        "Jazz --[café]--> Suite: Jazz",
+        "Love --[dance:]--> Love Dance"
     ]
 }
