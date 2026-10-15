@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "former municipality",
-        "Its",
         "name West",
         "Leticia",
         "Leticia Ann",
@@ -99,7 +97,9 @@
         "Love Dance",
         "Joe",
         "Joseph Aloysius",
-        "competition swimmer,"
+        "competition swimmer,",
+        "Disconnected",
+        "album): Disconnected"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -171,6 +171,7 @@
         "Jazz --[café]--> Suite: Jazz",
         "Love --[dance:]--> Love Dance",
         "Joe --[ruddy:]--> Joseph Aloysius",
-        "Was --[american]--> competition swimmer,"
+        "Was --[american]--> competition swimmer,",
+        "Disconnected --[(funkstörung]--> album): Disconnected"
     ]
 }
