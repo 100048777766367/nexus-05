@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Anna Hvoslef",
-        "One",
-        "first female",
-        "Middle Ages",
         "Panzergrenadier",
         "Großdeutschland: The",
         "Lyckeby:",
@@ -99,7 +95,11 @@
         "Parasitologie: Société",
         "Transition",
         "album): Transition",
-        "April 2011"
+        "April 2011",
+        "Dirt",
+        "Dirt Candy",
+        "Chef",
+        "owner Amanda"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -163,6 +163,8 @@
         "Won --[individual]--> gold and",
         "Société --[française]--> Parasitologie: Société",
         "Transition --[(chipmunk]--> album): Transition",
-        "Was --[released]--> April 2011"
+        "Was --[released]--> April 2011",
+        "Dirt --[candy:]--> Dirt Candy",
+        "Chef --[and]--> owner Amanda"
     ]
 }
