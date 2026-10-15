@@ -85,7 +85,10 @@
         "Yeatesia:",
         "putative genus",
         "Angle",
-        "Angle Entry"
+        "Angle Entry",
+        "Jen",
+        "Jennifer Pawol",
+        "the first"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -133,6 +136,8 @@
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Yeatesia: --[yeatesia]--> putative genus",
-        "Angle --[entry:]--> Angle Entry"
+        "Angle --[entry:]--> Angle Entry",
+        "Jen --[pawol:]--> Jennifer Pawol",
+        "She --[became]--> the first"
     ]
 }
