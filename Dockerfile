@@ -4,6 +4,7 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
 COPY cells/ ./cells/
+COPY receptors/ ./receptors/
 COPY adapters/ ./adapters/
 COPY mechanisms/ ./mechanisms/
 COPY synapses/ ./synapses/
