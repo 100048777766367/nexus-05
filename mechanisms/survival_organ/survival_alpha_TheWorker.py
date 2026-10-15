@@ -9,7 +9,7 @@ from mechanisms.base import BaseMechanism
 
 class SurvivalMechanism(BaseMechanism):
     name = "survival"
-    priority = 40
+    priority = 50
 
     def execute(self, context):
         current_time = int(time.time())
@@ -17,11 +17,11 @@ class SurvivalMechanism(BaseMechanism):
         final_decision = context.get("final_decision", 0.5)
         peers = context.get("peers", [])
 
-        prev_cid = "GENESIS_NEXUS02_CID"
+        prev_cid = "GENESIS_NEXUS04_CID"
         if os.path.exists("synapses/state.json"):
             try:
                 with open("synapses/state.json", "r") as f:
-                    prev_cid = json.load(f).get("quantum_cid", "GENESIS_NEXUS02_CID")
+                    prev_cid = json.load(f).get("quantum_cid", "GENESIS_NEXUS04_CID")
             except Exception: pass
 
         chain_seed = f"{prev_cid}_{current_epoch}_{current_time}_{final_decision}".encode()
@@ -29,19 +29,18 @@ class SurvivalMechanism(BaseMechanism):
 
         node_dna = {
             "identity": context.get("repo_name"),
-            "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
+            "generation": "F5_OMNI_TRANSMUTER_NEXUS",
             "generation_epoch": current_epoch,
-            "architecture": "Nexus03_Autogenic_Microkernel",
-            "knowledge_graph": context.get("knowledge_graph_summary", "None"),
+            "architecture": "Nexus05_Fractal_OmniTransmuter",
             "prev_cid": prev_cid
         }
 
-        # Sóng tiến: Có mang chỉ thị chuyên biệt (Directed Commands)
+        # GÓI TIN TIẾN: MANG TRỌN VẸN 5 DẠNG THỨC BIẾN HÌNH CHO TOÀN BỘ 11 TẦNG
         fwd_packet = {
-            "contract": "bodhi.nexus.v4",
+            "contract": "bodhi.nexus.v5",
             "node_dna": node_dna,
             "generation_epoch": current_epoch,
             "timestamp": current_time,
             "decision": final_decision,
             "command_pulse": [final_decision, round(1.0 - final_decision, 4)],
-            "features": [final_decision, round(1.0 - final_decision, 4)],
+            "transmuted_ecosystem_signals": context.get("transmuted_signals", {}),
