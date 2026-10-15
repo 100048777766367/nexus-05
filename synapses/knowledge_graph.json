@@ -64,7 +64,9 @@
         "ruined Armenian",
         "Drama",
         "EP): Drama",
-        "Entertainment November"
+        "Entertainment November",
+        "Ataíde",
+        "Ataíde the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -101,6 +103,7 @@
         "Thomas --[monastery,]--> Van:",
         "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
-        "Was --[released]--> Entertainment November"
+        "Was --[released]--> Entertainment November",
+        "Ataíde --[family:]--> Ataíde the"
     ]
 }
