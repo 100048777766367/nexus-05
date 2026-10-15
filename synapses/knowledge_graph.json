@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Panzergrenadier",
-        "Großdeutschland: The",
         "Lyckeby:",
         "village Karlskrona",
         "Mariko",
@@ -99,7 +97,9 @@
         "Dirt",
         "Dirt Candy",
         "Chef",
-        "owner Amanda"
+        "owner Amanda",
+        "Qatar",
+        "football team:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -165,6 +165,7 @@
         "Transition --[(chipmunk]--> album): Transition",
         "Was --[released]--> April 2011",
         "Dirt --[candy:]--> Dirt Candy",
-        "Chef --[and]--> owner Amanda"
+        "Chef --[and]--> owner Amanda",
+        "Qatar --[national]--> football team:"
     ]
 }
