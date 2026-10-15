@@ -2,7 +2,7 @@ name: Nexus-05 Omni-Transmuter Lifecycle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
   workflow_dispatch:
   schedule:
     - cron: '35 */4 * * *'
@@ -11,41 +11,50 @@ permissions:
   contents: write
 
 jobs:
-  run-nexus05-omni:
+  run-nexus05:
     runs-on: ubuntu-latest
     steps:
+      # 1. KÉO CODE BẰNG LINUX SHELL GỐC
       - name: Kéo mã nguồn Nexus-05
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
-      - name: Thiết lập Python 3.14
-        uses: actions/setup-python@v7
+      # 2. THIẾT LẬP PYTHON ĐA TƯƠNG THÍCH
+      - name: Thiết lập môi trường Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          python-version: '3.12'
 
-      - name: Vận hành Vi Nhân Biến Hình F5
+      # 3. VẬN HÀNH VI NHÂN F5
+      - name: Vận hành Vi Nhân Nexus-05
         env:
           REPO_OWNER: ${{ github.repository_owner }}
         run: python engine.py
 
-      - name: Lưu vết tích tiến hóa và túi kháng thể vào Git
+      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO GIT
+      - name: Lưu vết tích tiến hóa Git
         run: |
           git config --global user.name "Nexus-05-Omni-Bot"
-          git config --global user.email "bot@nexus05.omni.node"
+          git config --global user.email "bot@nexus05.node"
           
+          # Cấp token an toàn cho chính repo này (chống lỗi 128)
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
-          git fetch origin main
-          git reset origin/main
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
           
-          git add -A mechanisms/
-          git add -A receptors/
-          git add -A synapses/
+          # Stage an toàn: Thư mục nào tồn tại mới add (chống lỗi pathspec)
+          for d in cells receptors adapters mechanisms synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
           git add synapse_forward.json synapse_backward.json 2>/dev/null || true
           
           if ! git diff --staged --quiet; then
             git commit -m "🌌 [Nexus-05 F5] Biến hình tri thức đa chiều & Nuốt trọn năng lượng phản mong manh #(1+N) [skip ci]"
-            git push origin main
+            git push origin "$TARGET_BRANCH"
           else
-            echo "Mạng lưới tĩnh, không có biến đổi mới."
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
           fi
