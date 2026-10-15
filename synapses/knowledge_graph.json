@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "general secretary",
         "Patrick",
         "Three-Decker: The",
         "Anderson",
@@ -99,7 +97,9 @@
         "men's 100",
         "Chicago",
         "game: The",
-        "game, played"
+        "game, played",
+        "Arcens:",
+        "commune the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -179,6 +179,7 @@
         "André --[cerbonney:]--> André Cerbonney",
         "Competed --[the]--> men's 100",
         "Chicago --[football]--> game: The",
-        "Chicago --[football]--> game, played"
+        "Chicago --[football]--> game, played",
+        "Arcens: --[arcens]--> commune the"
     ]
 }
