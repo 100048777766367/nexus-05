@@ -79,7 +79,9 @@
         "Spirillum:",
         "genus",
         "Gram-negative",
-        "the family"
+        "the family",
+        "Žemaitkiemis",
+        "Žemaitkiemis meteorite"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -124,6 +126,7 @@
         "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
-        "Gram-negative --[bacteria]--> the family"
+        "Gram-negative --[bacteria]--> the family",
+        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite"
     ]
 }
