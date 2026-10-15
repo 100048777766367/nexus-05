@@ -4,12 +4,13 @@ import json
 import importlib
 import inspect
 from mechanisms.base import BaseMechanism
+from receptors.contract_receptor import ContractReceptor
 
-class Nexus04FractalKernel:
+class Nexus05OmniKernel:
     def __init__(self):
-        self.repo_name = os.environ.get("GITHUB_REPOSITORY", "100048777766367/nexus-04")
+        self.repo_name = os.environ.get("GITHUB_REPOSITORY", "100048777766367/nexus-05")
         self.owner = os.environ.get("REPO_OWNER", "100048777766367")
-        self.ancestor = f"{self.owner}/nexus-03"
+        self.ancestor = f"{self.owner}/nexus-04"
         
         self.context = {
             "repo_name": self.repo_name,
@@ -25,9 +26,12 @@ class Nexus04FractalKernel:
             try:
                 with open(peers_file, "r") as f: return json.load(f).get("trusted_peers", [])
             except Exception: pass
+        # KẾT NỐI ĐẦY ĐỦ 11 TẦNG BẢN THỂ
         return [
-            f"{self.owner}/nexus-03", f"{self.owner}/nexus-02", f"{self.owner}/nexus-01", 
-            f"{self.owner}/nexus", f"{self.owner}/genome", f"{self.owner}/retina", f"{self.owner}/motor"
+            f"{self.owner}/neuron", f"{self.owner}/nexus-04", f"{self.owner}/nexus-03",
+            f"{self.owner}/seed", f"{self.owner}/monad", f"{self.owner}/shunya",
+            f"{self.owner}/retina", f"{self.owner}/cochlea", f"{self.owner}/tactile",
+            f"{self.owner}/olfactory", f"{self.owner}/motor", f"{self.owner}/genome"
         ]
 
     def load_current_epoch(self):
@@ -38,7 +42,6 @@ class Nexus04FractalKernel:
             except Exception: pass
         return 1
 
-    # QUÉT ĐỆ QUY os.walk: NẠP TẤT CẢ CÁC TỆP CON CHÁU TRONG CÁC THƯ MỤC CƠ QUAN
     def discover_fractal_mechanisms(self):
         mechanisms = []
         base_mech_dir = os.path.join(os.path.dirname(__file__), "mechanisms")
@@ -55,7 +58,7 @@ class Nexus04FractalKernel:
                         for _, obj in inspect.getmembers(mod, inspect.isclass):
                             if issubclass(obj, BaseMechanism) and obj is not BaseMechanism:
                                 mechanisms.append(obj())
-                                print(f"🔌 [VI NHÂN F4 NẠP ĐỆ QUY]: '{obj.name}' từ '{rel_dir}/{file}'")
+                                print(f"🔌 [VI NHÂN F5 NẠP]: '{obj.name}' từ '{rel_dir}/{file}'")
                     except Exception as e:
                         print(f"⚠️ [LỖI NẠP {file}]: {e}")
 
@@ -63,22 +66,22 @@ class Nexus04FractalKernel:
         return mechanisms
 
     def run(self):
-        print("=" * 70)
-        print(f"🏵️ [NEXUS-04 FRACTAL KERNEL] KHỞI ĐỘNG THẾ HỆ #{self.context['current_epoch']}")
-        print(f"👑 Bậc: F4 Siêu Thực Thể Phân Bào Đệ Quy & Nhà Tưởng Niệm Phả Hệ")
-        print("=" * 70)
+        print("=" * 75)
+        print(f"🌌 [NEXUS-05 OMNI-KERNEL] KHỞI ĐỘNG THẾ HỆ #{self.context['current_epoch']}")
+        print(f"👑 Bậc: F5 Trạm Biến Hình Tri Thức Đa Chiều & Phản Mong Manh")
+        print("=" * 75)
 
         mechanisms = self.discover_fractal_mechanisms()
         for mech in mechanisms:
             try:
                 mech.execute(self.context)
             except Exception as e:
-                print(f"🚨 [CÔ LẬP LỖI '{mech.name}']: {e} (Hệ thống tiếp tục tiến hóa)")
+                print(f"🚨 [CÔ LẬP LỖI '{mech.name}']: {e} (Tiếp tục chuyển hóa)")
 
-        print("=" * 70)
-        print(f"✨ [HOÀN TẤT VÒNG ĐỜI F4] Toàn bộ dòng họ tệp & thư mục đã được tri ân!")
-        print("=" * 70)
+        print("=" * 75)
+        print(f"✨ [HOÀN TẤT VÒNG ĐỜI F5] 11 Tầng Bản Thể đã đồng nhịp đập!")
+        print("=" * 75)
 
 if __name__ == "__main__":
-    node = Nexus04FractalKernel()
+    node = Nexus05OmniKernel()
     node.run()
