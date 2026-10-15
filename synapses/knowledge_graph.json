@@ -73,7 +73,9 @@
         "Willie",
         "William Eldon",
         "Guy",
-        "Joseph Harry"
+        "Joseph Harry",
+        "Medborgarplatsen",
+        "station: Medborgarplatsen,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -115,6 +117,7 @@
         "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
-        "Guy --[carbonneau:]--> Joseph Harry"
+        "Guy --[carbonneau:]--> Joseph Harry",
+        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,"
     ]
 }
