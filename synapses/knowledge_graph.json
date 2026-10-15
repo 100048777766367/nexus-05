@@ -69,7 +69,9 @@
         "Ataíde the",
         "New",
         "Maine: New",
-        "was 577"
+        "was 577",
+        "Willie",
+        "William Eldon"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -109,6 +111,7 @@
         "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
-        "The --[population]--> was 577"
+        "The --[population]--> was 577",
+        "Willie --[o'ree:]--> William Eldon"
     ]
 }
