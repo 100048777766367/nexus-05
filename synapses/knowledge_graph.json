@@ -58,7 +58,10 @@
         "Halifax",
         "The Halifax",
         "Erik",
-        "Erik Källgren"
+        "Erik Källgren",
+        "Thomas",
+        "Van:",
+        "ruined Armenian"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -91,6 +94,8 @@
         "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
         "Halifax --[resolves:]--> The Halifax",
-        "Erik --[källgren:]--> Erik Källgren"
+        "Erik --[källgren:]--> Erik Källgren",
+        "Thomas --[monastery,]--> Van:",
+        "Thomas --[monastery]--> ruined Armenian"
     ]
 }
