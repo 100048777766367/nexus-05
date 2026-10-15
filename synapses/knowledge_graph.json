@@ -54,7 +54,9 @@
         "Operated",
         "December 2011",
         "Offered",
-        "on-deman"
+        "on-deman",
+        "Halifax",
+        "The Halifax"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -85,6 +87,7 @@
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
-        "Offered --[ad-free,]--> on-deman"
+        "Offered --[ad-free,]--> on-deman",
+        "Halifax --[resolves:]--> The Halifax"
     ]
 }
