@@ -95,7 +95,11 @@
         "Nikolay",
         "Nikolay Victorovich",
         "His",
-        "include"
+        "include",
+        "Ten",
+        "James",
+        "was crew",
+        "Tomkins Cove,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -149,6 +153,9 @@
         "Yenimahalle --[station]--> (M3): Yenimahalle",
         "The --[station]--> located",
         "Nikolay --[baskov:]--> Nikolay Victorovich",
-        "His --[honors]--> include"
+        "His --[honors]--> include",
+        "Ten --[eyck:]--> James",
+        "Ten --[eyck]--> was crew",
+        "Was --[born]--> Tomkins Cove,"
     ]
 }
