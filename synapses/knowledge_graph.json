@@ -75,7 +75,11 @@
         "Guy",
         "Joseph Harry",
         "Medborgarplatsen",
-        "station: Medborgarplatsen,"
+        "station: Medborgarplatsen,",
+        "Spirillum:",
+        "genus",
+        "Gram-negative",
+        "the family"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -118,6 +122,8 @@
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
-        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,"
+        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
+        "Spirillum: --[spirillum]--> genus",
+        "Gram-negative --[bacteria]--> the family"
     ]
 }
