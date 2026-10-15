@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gleicheniales:",
-        "order ferns",
         "The",
         "has spore",
         "Anna",
@@ -99,7 +97,9 @@
         "Eric",
         "Eric Lamaze",
         "Won",
-        "gold and"
+        "gold and",
+        "Société",
+        "Parasitologie: Société"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -160,6 +160,7 @@
         "Scuderie --[detetive]--> Cocq: Scuderie",
         "International --[journal]--> Transgender Health:",
         "Eric --[lamaze:]--> Eric Lamaze",
-        "Won --[individual]--> gold and"
+        "Won --[individual]--> gold and",
+        "Société --[française]--> Parasitologie: Société"
     ]
 }
