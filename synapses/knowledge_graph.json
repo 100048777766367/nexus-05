@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mikael",
-        "Mikael Rickfors",
         "From",
         "was the",
         "Sukkwan",
@@ -99,7 +97,9 @@
         "Ten",
         "James",
         "was crew",
-        "Tomkins Cove,"
+        "Tomkins Cove,",
+        "Scuderie",
+        "Cocq: Scuderie"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -156,6 +156,7 @@
         "His --[honors]--> include",
         "Ten --[eyck:]--> James",
         "Ten --[eyck]--> was crew",
-        "Was --[born]--> Tomkins Cove,"
+        "Was --[born]--> Tomkins Cove,",
+        "Scuderie --[detetive]--> Cocq: Scuderie"
     ]
 }
