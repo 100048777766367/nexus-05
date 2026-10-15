@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "name West",
-        "Leticia",
-        "Leticia Ann",
         "American journalist",
         "She",
         "known former",
@@ -99,7 +96,10 @@
         "Joseph Aloysius",
         "competition swimmer,",
         "Disconnected",
-        "album): Disconnected"
+        "album): Disconnected",
+        "Bedlam",
+        "novel): Bedlam",
+        "for the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -172,6 +172,8 @@
         "Love --[dance:]--> Love Dance",
         "Joe --[ruddy:]--> Joseph Aloysius",
         "Was --[american]--> competition swimmer,",
-        "Disconnected --[(funkstörung]--> album): Disconnected"
+        "Disconnected --[(funkstörung]--> album): Disconnected",
+        "Bedlam --[(kennen]--> novel): Bedlam",
+        "Was --[nominated]--> for the"
     ]
 }
