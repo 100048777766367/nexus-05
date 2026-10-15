@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "The",
-        "has spore",
-        "Anna",
         "Anna Hvoslef",
         "One",
         "first female",
@@ -99,7 +96,10 @@
         "Won",
         "gold and",
         "Société",
-        "Parasitologie: Société"
+        "Parasitologie: Société",
+        "Transition",
+        "album): Transition",
+        "April 2011"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -161,6 +161,8 @@
         "International --[journal]--> Transgender Health:",
         "Eric --[lamaze:]--> Eric Lamaze",
         "Won --[individual]--> gold and",
-        "Société --[française]--> Parasitologie: Société"
+        "Société --[française]--> Parasitologie: Société",
+        "Transition --[(chipmunk]--> album): Transition",
+        "Was --[released]--> April 2011"
     ]
 }
