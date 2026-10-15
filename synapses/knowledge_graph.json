@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lyckeby:",
-        "village Karlskrona",
         "Mariko",
         "Mariko Sanjo",
         "Sir",
@@ -99,7 +97,9 @@
         "Chef",
         "owner Amanda",
         "Qatar",
-        "football team:"
+        "football team:",
+        "Where",
+        "and Biology"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -166,6 +166,7 @@
         "Was --[released]--> April 2011",
         "Dirt --[candy:]--> Dirt Candy",
         "Chef --[and]--> owner Amanda",
-        "Qatar --[national]--> football team:"
+        "Qatar --[national]--> football team:",
+        "Where --[reincarnation]--> and Biology"
     ]
 }
