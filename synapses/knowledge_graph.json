@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mariko",
-        "Mariko Sanjo",
         "Sir",
         "Comes Lunch:",
         "Wodehouse,",
@@ -99,7 +97,9 @@
         "Qatar",
         "football team:",
         "Where",
-        "and Biology"
+        "and Biology",
+        "Jazz",
+        "Suite: Jazz"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -167,6 +167,7 @@
         "Dirt --[candy:]--> Dirt Candy",
         "Chef --[and]--> owner Amanda",
         "Qatar --[national]--> football team:",
-        "Where --[reincarnation]--> and Biology"
+        "Where --[reincarnation]--> and Biology",
+        "Jazz --[café]--> Suite: Jazz"
     ]
 }
