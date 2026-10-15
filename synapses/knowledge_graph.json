@@ -83,7 +83,9 @@
         "Žemaitkiemis",
         "Žemaitkiemis meteorite",
         "Yeatesia:",
-        "putative genus"
+        "putative genus",
+        "Angle",
+        "Angle Entry"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -130,6 +132,7 @@
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
-        "Yeatesia: --[yeatesia]--> putative genus"
+        "Yeatesia: --[yeatesia]--> putative genus",
+        "Angle --[entry:]--> Angle Entry"
     ]
 }
