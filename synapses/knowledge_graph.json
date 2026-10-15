@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sukkwan",
-        "(film): Sukkwan",
-        "Kristen",
-        "Kristen Elise",
         "Gleicheniales:",
         "order ferns",
         "The",
@@ -99,7 +95,11 @@
         "Scuderie",
         "Cocq: Scuderie",
         "International",
-        "Transgender Health:"
+        "Transgender Health:",
+        "Eric",
+        "Eric Lamaze",
+        "Won",
+        "gold and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -158,6 +158,8 @@
         "Ten --[eyck]--> was crew",
         "Was --[born]--> Tomkins Cove,",
         "Scuderie --[detetive]--> Cocq: Scuderie",
-        "International --[journal]--> Transgender Health:"
+        "International --[journal]--> Transgender Health:",
+        "Eric --[lamaze:]--> Eric Lamaze",
+        "Won --[individual]--> gold and"
     ]
 }
