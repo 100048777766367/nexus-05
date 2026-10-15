@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "From",
-        "was the",
         "Sukkwan",
         "(film): Sukkwan",
         "Kristen",
@@ -99,7 +97,9 @@
         "was crew",
         "Tomkins Cove,",
         "Scuderie",
-        "Cocq: Scuderie"
+        "Cocq: Scuderie",
+        "International",
+        "Transgender Health:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -157,6 +157,7 @@
         "Ten --[eyck:]--> James",
         "Ten --[eyck]--> was crew",
         "Was --[born]--> Tomkins Cove,",
-        "Scuderie --[detetive]--> Cocq: Scuderie"
+        "Scuderie --[detetive]--> Cocq: Scuderie",
+        "International --[journal]--> Transgender Health:"
     ]
 }
