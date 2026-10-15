@@ -88,7 +88,10 @@
         "Angle Entry",
         "Jen",
         "Jennifer Pawol",
-        "the first"
+        "the first",
+        "Yenimahalle",
+        "(M3): Yenimahalle",
+        "located"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -138,6 +141,8 @@
         "Yeatesia: --[yeatesia]--> putative genus",
         "Angle --[entry:]--> Angle Entry",
         "Jen --[pawol:]--> Jennifer Pawol",
-        "She --[became]--> the first"
+        "She --[became]--> the first",
+        "Yenimahalle --[station]--> (M3): Yenimahalle",
+        "The --[station]--> located"
     ]
 }
