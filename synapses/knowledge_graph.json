@@ -61,7 +61,10 @@
         "Erik Källgren",
         "Thomas",
         "Van:",
-        "ruined Armenian"
+        "ruined Armenian",
+        "Drama",
+        "EP): Drama",
+        "Entertainment November"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -96,6 +99,8 @@
         "Halifax --[resolves:]--> The Halifax",
         "Erik --[källgren:]--> Erik Källgren",
         "Thomas --[monastery,]--> Van:",
-        "Thomas --[monastery]--> ruined Armenian"
+        "Thomas --[monastery]--> ruined Armenian",
+        "Drama --[(aespa]--> EP): Drama",
+        "Was --[released]--> Entertainment November"
     ]
 }
