@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Wodehouse,",
-        "features the",
-        "Ferwerderadiel:",
         "former municipality",
         "Its",
         "name West",
@@ -99,7 +96,10 @@
         "Jazz",
         "Suite: Jazz",
         "Love",
-        "Love Dance"
+        "Love Dance",
+        "Joe",
+        "Joseph Aloysius",
+        "competition swimmer,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -169,6 +169,8 @@
         "Qatar --[national]--> football team:",
         "Where --[reincarnation]--> and Biology",
         "Jazz --[café]--> Suite: Jazz",
-        "Love --[dance:]--> Love Dance"
+        "Love --[dance:]--> Love Dance",
+        "Joe --[ruddy:]--> Joseph Aloysius",
+        "Was --[american]--> competition swimmer,"
     ]
 }
