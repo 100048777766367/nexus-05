@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Patrick",
-        "Three-Decker: The",
         "Anderson",
         "District (Anderson,",
         "cotton being",
@@ -99,7 +97,9 @@
         "game: The",
         "game, played",
         "Arcens:",
-        "commune the"
+        "commune the",
+        "Microdon",
+        "Microdon abditus"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -180,6 +180,7 @@
         "Competed --[the]--> men's 100",
         "Chicago --[football]--> game: The",
         "Chicago --[football]--> game, played",
-        "Arcens: --[arcens]--> commune the"
+        "Arcens: --[arcens]--> commune the",
+        "Microdon --[abditus:]--> Microdon abditus"
     ]
 }
