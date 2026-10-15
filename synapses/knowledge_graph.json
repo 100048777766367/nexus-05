@@ -91,7 +91,11 @@
         "the first",
         "Yenimahalle",
         "(M3): Yenimahalle",
-        "located"
+        "located",
+        "Nikolay",
+        "Nikolay Victorovich",
+        "His",
+        "include"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -143,6 +147,8 @@
         "Jen --[pawol:]--> Jennifer Pawol",
         "She --[became]--> the first",
         "Yenimahalle --[station]--> (M3): Yenimahalle",
-        "The --[station]--> located"
+        "The --[station]--> located",
+        "Nikolay --[baskov:]--> Nikolay Victorovich",
+        "His --[honors]--> include"
     ]
 }
