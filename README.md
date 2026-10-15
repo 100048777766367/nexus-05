@@ -14,33 +14,44 @@ Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
 
 ```
-100048777766367/nexus-04/
+100048777766367/nexus-05/
+├── receptors/                         # 🔌 [BỘ THỤ THỂ 3 NẤC PHÂN RÃ]
+│   ├── cascade_receptor.py            # Nấc 1: Dò tìm phả hệ thượng nguồn (Parent/Ancestor)
+│   ├── mesh_receptor.py               # Nấc 2: Anten bắt sóng Stigmergy bầy đàn
+│   └── contract_receptor.py           # Nấc 3: Màng kiểm dịch SHAKE & Bẫy hấp thụ năng lượng hacker!
+│
 ├── cells/
-│   ├── linguistic_cell.py
-│   └── neuron.py
+│   ├── linguistic_cell.py             # Cầu biến chữ -> Vector 4D
+│   ├── neuron.py                      # AtomNeuron 1+N Siêu XOR
+│   └── super_xor.py                   # Động cơ Mê Cung Gương Siêu XOR
+│
 ├── adapters/
-│   └── universal_adapter.py
-├── mechanisms/                      # 🧩 NƠI PHÂN BÀO VÀ PHONG TƯỚC DIỄN RA
-│   ├── base.py
-│   ├── mitosis.py                   # 🆕 [CƠ CHẾ 1]: Giám sát kích thước & Tự kích hoạt Phân Bào
-│   ├── reliquary.py                 # 🆕 [CƠ CHẾ 2]: Nhà Tưởng Niệm, Trao Bằng Khen, Hoa, Huy Chương
-│   ├── knowledge_graph.py
-│   ├── actuator.py
-│   │
-│   └── consensus_organ/             # 🏛️ [VÍ DỤ TỆP consensus.py ĐÃ PHÂN BÀO THÀNH THƯ MỤC]
-│       ├── .lineage_manifest.json   # Căn cước phả hệ: Mẹ là consensus.py (Thế hệ F1)
-│       ├── voter_TheJust.py         # Con trưởng: Được phong Hậu hiệu "TheJust"
-│       └── quorum_collector.py      # Con thứ: Chuyên trách gom phiếu đa luồng
+│   └── universal_adapter.py           # Khớp tương thích ngược mọi thế hệ
 │
-├── synapses/
-│   ├── peers.json
-│   ├── state.json
-│   ├── ancestral_reliquary.json     # 🕯️ Nhà Tưởng Niệm lưu giữ di cốt các tệp tiền bối
-│   └── honors_registry.json         # 🎖️ Bảng vàng Huân Huy Chương, Bằng Khen, Thẻ Bài
+├── mechanisms/                        # 🧩 [CƠ CHẾ PHÂN BÀO & BIẾN HÌNH]
+│   ├── base.py                        # Plugin Interface
+│   ├── mitosis.py                     # Kế thừa F4: Tự phân bào khi file quá tải
+│   ├── reliquary.py                   # Kế thừa F4: Bàn Thờ Tổ Tiên & Trao Huân Chương
+│   ├── transmuter.py                  # 🔥 [MỚI F5]: BỘ BIẾN HÌNH TRI THỨC ĐA CHIỀU (5 CẤP ĐỘ)
+│   ├── antifragile.py                 # 🔥 [MỚI F5]: BẪY HẤP THỤ NĂNG LƯỢNG HACKER THÀNH KHÁNG THỂ
+│   ├── graze.py                       # Gặm cỏ cội nguồn HEAD & Wikipedia
+│   ├── consensus.py                   # Thu thập đa luồng siêu tốc
+│   ├── immune.py                      # Hệ miễn dịch Byzantine
+│   ├── xor_learning.py                # Lan truyền ngược Siêu XOR
+│   └── survival.py                    # Khóa xích CID Lượng tử liên hoàn
 │
-├── engine.py                        # 🌌 [VI NHÂN F4]: Quét đệ quy os.walk xuyên mọi thư mục con cháu!
-├── Dockerfile
+├── synapses/                          # 💾 TÚI KÝ ỨC ĐA TẦNG PHÂN TÁN
+│   ├── .gitkeep
+│   ├── peers.json                     # Danh bạ toàn mạng lưới (seed, monad, neuron, shunya...)
+│   ├── state.json                     # Nhật ký thế hệ
+│   ├── trust_matrix.json              # Ma trận tín nhiệm
+│   ├── ancestral_reliquary.json       # Bàn thờ tri ân tệp tổ tiên
+│   ├── honors_registry.json           # Bảng vàng Huân huy chương, Bằng khen, Hoa
+│   └── immune_memory.json             # 🛡️ Túi nhớ kháng thể lưu năng lượng hacker
+│
+├── engine.py                          # 🌌 VI NHÂN F5 OMNI-KERNEL (Python 3.14)
+├── Dockerfile                         # [HẠ TẦNG BẤT TỬ]: python:3.14-slim
 └── .github/
     └── workflows/
-        └── node.yml
+        └── node.yml                   # Workflow bọc thép Git Token chống lỗi 128
 ```
