@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Anderson",
-        "District (Anderson,",
         "cotton being",
         "Rara",
         "rara was",
@@ -99,7 +97,9 @@
         "Arcens:",
         "commune the",
         "Microdon",
-        "Microdon abditus"
+        "Microdon abditus",
+        "Puxada",
+        "Puxada rede"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -181,6 +181,7 @@
         "Chicago --[football]--> game: The",
         "Chicago --[football]--> game, played",
         "Arcens: --[arcens]--> commune the",
-        "Microdon --[abditus:]--> Microdon abditus"
+        "Microdon --[abditus:]--> Microdon abditus",
+        "Puxada --[rede:]--> Puxada rede"
     ]
 }
