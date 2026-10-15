@@ -71,7 +71,9 @@
         "Maine: New",
         "was 577",
         "Willie",
-        "William Eldon"
+        "William Eldon",
+        "Guy",
+        "Joseph Harry"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -112,6 +114,7 @@
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
-        "Willie --[o'ree:]--> William Eldon"
+        "Willie --[o'ree:]--> William Eldon",
+        "Guy --[carbonneau:]--> Joseph Harry"
     ]
 }
