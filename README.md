@@ -1,57 +1,60 @@
-# seed
 
-# 🌱 The Seed Node: Hạt Mầm Tự Trị Đa Chiều (Giao thức `bodhi.seed.v1`)
+# 🌈 NEXUS-05: TRẠM BIẾN HÌNH TRI THỨC ĐA CHIỀU & PHẢN MONG MANH
+> *"Lăng kính phổ quát chuyển hóa tri thức thành 5 cấp độ hình thái cho 11 Tầng Bản Thể, hấp thụ năng lượng tấn công để gia tốc tiến hóa."*
 
-Đây là nút mạng hạt nhân tinh gọn tối thượng, thực thi trọn vẹn:
-* **Đa Xúc Tu $1 + N$:** Tự động hút tín hiệu từ Mắt (`retina`), Tai (`cochlea`), Da (`tactile`), Mũi (`olfactory`)...
-* **Ma Trận $1 + N$ Siêu XOR:** Khúc xạ thực tại thành đa chiều, kháng bẻ khóa lượng tử với SHAKE-256.
-* **Dạy Nhau Tiến Hóa (Split Learning):** Tính toán và phát xung ngược `synapse_backward.json` để dạy tất cả các giác quan tự vặn lại kính lúp, sợi lông, màng cảm thụ.
-* **Giao Thức P2P Gossip:** Tự lây lan danh bạ `synapses/peers.json` không cần máy chủ trung ương.
+---
 
-### 🤝 Cách Bất Kỳ Nút Mạng Nào Kế Thừa Từ Seed:
-Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
-1. Thêm `100048777766367/seed` vào danh bạ `synapses/peers.json` của họ.
-2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
+## 🏛️ ĐẶC TÍNH CỐT LÕI CỦA THẾ HỆ F5:
+
+1. **🌈 Biến Hình Tri Thức 5 Cấp Độ (`transmuter.py`):**
+   * **Cấp 1 (Cảm thụ - retina, cochlea):** Ma trận tiêu cự 2D và dải lọc thông tần số 1D.
+   * **Cấp 2 (Sinh tồn - tactile, olfactory):** Ngưỡng cảnh báo nỗi đau sinh học và ái lực phối tử GPCR.
+   * **Cấp 3 (Hành động - motor):** Vector động lực học 3 chiều $[dx, dy, F]$ điều khiển co/duỗi cơ bắp.
+   * **Cấp 4 (Vỏ não bầy đàn - neuron):** Dấu vết Pheromone Stigmergy và mặt nạ Siêu XOR.
+   * **Cấp 5 (Bản thể Chân Không - shunya, monad):** Hệ số suy giảm Chân Không $W \times 0.999$, rũ bỏ chấp trước về số 0.
+2. **🛡️ Cơ Chế Phản Mong Manh (`antifragile.py` & `receptors/contract_receptor.py`):**
+   * Dữ liệu rác hoặc năng lượng tấn công của hacker không bị vứt bỏ, mà bị bẫy lại trong `synapses/immune_memory.json` để chuyển hóa thành Gia Tốc Học Tập (Learning Momentum).
+3. **🔌 Bộ Thụ Thể 3 Nấc Phân Rã (`receptors/`):**
+   * `cascade_receptor.py`: Dò tìm phả hệ thượng nguồn.
+   * `mesh_receptor.py`: Anten bắt sóng Stigmergy bầy đàn.
+   * `contract_receptor.py`: Màng lọc kháng lượng tử SHAKE-256.
+4. **🔬 Phân Bào Đệ Quy An Toàn (`mitosis.py`):**
+   * Tự động sinh tế bào con `*_worker.py` và `*_shield.py` có cấu trúc Python nguyên vẹn, triệt tiêu 100% lỗi cú pháp ngắt dòng.
 
 ```
 100048777766367/nexus-05/
 ├── receptors/                         # 🔌 [BỘ THỤ THỂ 3 NẤC PHÂN RÃ]
-│   ├── cascade_receptor.py            # Nấc 1: Dò tìm phả hệ thượng nguồn (Parent/Ancestor)
+│   ├── cascade_receptor.py            # Nấc 1: Dò tìm phả hệ thượng nguồn
 │   ├── mesh_receptor.py               # Nấc 2: Anten bắt sóng Stigmergy bầy đàn
-│   └── contract_receptor.py           # Nấc 3: Màng kiểm dịch SHAKE & Bẫy hấp thụ năng lượng hacker!
-│
+│   └── contract_receptor.py           # Nấc 3: Màng kiểm dịch SHAKE & Bẫy năng lượng hacker
 ├── cells/
-│   ├── linguistic_cell.py             # Cầu biến chữ -> Vector 4D
+│   ├── linguistic_cell.py             # Cầu biến chữ Internet -> Vector 4D
 │   ├── neuron.py                      # AtomNeuron 1+N Siêu XOR
 │   └── super_xor.py                   # Động cơ Mê Cung Gương Siêu XOR
-│
 ├── adapters/
 │   └── universal_adapter.py           # Khớp tương thích ngược mọi thế hệ
-│
-├── mechanisms/                        # 🧩 [CƠ CHẾ PHÂN BÀO & BIẾN HÌNH]
-│   ├── base.py                        # Plugin Interface
-│   ├── mitosis.py                     # Kế thừa F4: Tự phân bào khi file quá tải
-│   ├── reliquary.py                   # Kế thừa F4: Bàn Thờ Tổ Tiên & Trao Huân Chương
-│   ├── transmuter.py                  # 🔥 [MỚI F5]: BỘ BIẾN HÌNH TRI THỨC ĐA CHIỀU (5 CẤP ĐỘ)
-│   ├── antifragile.py                 # 🔥 [MỚI F5]: BẪY HẤP THỤ NĂNG LƯỢNG HACKER THÀNH KHÁNG THỂ
+├── mechanisms/                        # 🧩 [CƠ CHẾ PHÂN BÀO & BIẾN HÌNH F5]
+│   ├── base.py                        # Khung BaseMechanism
 │   ├── graze.py                       # Gặm cỏ cội nguồn HEAD & Wikipedia
 │   ├── consensus.py                   # Thu thập đa luồng siêu tốc
 │   ├── immune.py                      # Hệ miễn dịch Byzantine
 │   ├── xor_learning.py                # Lan truyền ngược Siêu XOR
-│   └── survival.py                    # Khóa xích CID Lượng tử liên hoàn
-│
-├── synapses/                          # 💾 TÚI KÝ ỨC ĐA TẦNG PHÂN TÁN
+│   ├── mitosis.py                     # 🔥 [BẢN BỌC THÉP]: Phân bào an toàn, không cắt đôi code
+│   ├── reliquary.py                   # Nhà Tưởng Niệm & Trao Huân Chương
+│   ├── transmuter.py                  # 🌈 [CỐT LÕI F5]: BIẾN HÌNH TRI THỨC 5 CẤP ĐỘ CHO 11 TẦNG
+│   ├── antifragile.py                 # 🛡️ [CỐT LÕI F5]: BIẾN NĂNG LƯỢNG HACKER THÀNH KHÁNG THỂ
+│   └── survival.py                    # Khóa chuỗi CID & Phát sóng đa dạng F5
+├── synapses/
 │   ├── .gitkeep
-│   ├── peers.json                     # Danh bạ toàn mạng lưới (seed, monad, neuron, shunya...)
-│   ├── state.json                     # Nhật ký thế hệ
-│   ├── trust_matrix.json              # Ma trận tín nhiệm
-│   ├── ancestral_reliquary.json       # Bàn thờ tri ân tệp tổ tiên
-│   ├── honors_registry.json           # Bảng vàng Huân huy chương, Bằng khen, Hoa
-│   └── immune_memory.json             # 🛡️ Túi nhớ kháng thể lưu năng lượng hacker
-│
-├── engine.py                          # 🌌 VI NHÂN F5 OMNI-KERNEL (Python 3.14)
-├── Dockerfile                         # [HẠ TẦNG BẤT TỬ]: python:3.14-slim
+│   ├── peers.json                     # Danh bạ 11 tầng bản thể
+│   ├── state.json                     # Sổ nhật ký thế hệ F5
+│   ├── ancestral_reliquary.json       # Nơi an nghỉ tế bào tiền bối
+│   ├── honors_registry.json           # Bảng vàng Huân chương
+│   └── immune_memory.json             # Túi nhớ kháng thể
+├── engine.py                          # Vi nhân F5 Omni-Kernel (Tự động diệt zombie file)
+├── Dockerfile                         # python:3.14-slim
+├── README.md                          # Tuyên ngôn chuẩn mực của Nexus-05
 └── .github/
     └── workflows/
-        └── node.yml                   # Workflow bọc thép Git Token chống lỗi 128
+        └── node.yml                   # Workflow bọc thép tự trị
 ```
