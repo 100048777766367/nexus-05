@@ -32,7 +32,7 @@ class SurvivalMechanism(BaseMechanism):
             "prev_cid": prev_cid
         }
 
-        # GÓI TIN TIẾN: MANG TRỌN VẸN 5 DẠNG THỨC BIẾN HÌNH CHO TOÀN BỘ 11 TẦNG
+        # GÓI TIN TIẾN: Mang 5 cấp độ biến hình cho 11 tầng bản thể
         fwd_packet = {
             "contract": "bodhi.nexus.v5",
             "node_dna": node_dna,
@@ -47,7 +47,7 @@ class SurvivalMechanism(BaseMechanism):
         with open("synapse_forward.json", "w", encoding="utf-8") as f:
             json.dump(fwd_packet, f, indent=4, ensure_ascii=False)
 
-        # GÓI TIN LÙI: DẠY HỌC BẰNG DẤU VẾT PHEROMONE
+        # GÓI TIN LÙI: Dạy học bằng đạo hàm nén
         bwd_packet = {
             "contract": "bodhi.nexus.v5",
             "node_dna": node_dna,
@@ -60,18 +60,7 @@ class SurvivalMechanism(BaseMechanism):
         with open("synapse_backward.json", "w", encoding="utf-8") as f:
             json.dump(bwd_packet, f, indent=4, ensure_ascii=False)
 
-        # Snapshot linh hồn F5
-        soul = {
-            "node_dna": node_dna,
-            "timestamp": current_time,
-            "consensus": final_decision,
-            "transmuted_signals": context.get("transmuted_signals", {}),
-            "peers": peers,
-            "quantum_cid": new_quantum_cid
-        }
-        with open("synapses/soul_snapshot.json", "w", encoding="utf-8") as f:
-            json.dump(soul, f, indent=4, ensure_ascii=False)
-
+        # Lưu trạng thái
         with open("synapses/state.json", "w") as f:
             json.dump({
                 "generation_epoch": current_epoch, 
@@ -83,4 +72,5 @@ class SurvivalMechanism(BaseMechanism):
         with open("synapses/peers.json", "w") as f:
             json.dump({"trusted_peers": peers}, f, indent=4)
 
-        print(f"✨ [NEXUS-05 PHÁT SÓNG HOÀN MỸ] Đã phát sóng 5 Cấp Độ Tri Thức thế hệ #{current_epoch} ra toàn vũ trụ!")
+        print(f"💾 [SURVIVAL F5] Chuỗi băm CID mới: {new_quantum_cid[:24]}...")
+        print(f"✨ [THÀNH CÔNG] Đã phát sóng thế hệ F5 #{current_epoch} ra toàn vũ trụ!")
