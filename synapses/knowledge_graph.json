@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "December 2011",
-        "Offered",
         "on-deman",
         "Halifax",
         "The Halifax",
@@ -99,7 +97,9 @@
         "Crossnore,",
         "Carolina: Crossnore",
         "The",
-        "was 143"
+        "was 143",
+        "Bryolymnia",
+        "Bryolymnia viridimedia"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -184,6 +184,7 @@
         "Microdon --[abditus:]--> Microdon abditus",
         "Puxada --[rede:]--> Puxada rede",
         "Crossnore, --[north]--> Carolina: Crossnore",
-        "The --[population]--> was 143"
+        "The --[population]--> was 143",
+        "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia"
     ]
 }
