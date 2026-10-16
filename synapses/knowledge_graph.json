@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "on-deman",
-        "Halifax",
-        "The Halifax",
-        "Erik",
-        "Erik Källgren",
-        "Thomas",
         "Van:",
         "ruined Armenian",
         "Drama",
@@ -99,7 +93,13 @@
         "The",
         "was 143",
         "Bryolymnia",
-        "Bryolymnia viridimedia"
+        "Bryolymnia viridimedia",
+        "Number",
+        "(magazine): Number",
+        "Was",
+        "pop magazine",
+        "Ran",
+        "nine years"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -185,6 +185,9 @@
         "Puxada --[rede:]--> Puxada rede",
         "Crossnore, --[north]--> Carolina: Crossnore",
         "The --[population]--> was 143",
-        "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia"
+        "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia",
+        "Number --[one]--> (magazine): Number",
+        "Was --[british]--> pop magazine",
+        "Ran --[for]--> nine years"
     ]
 }
