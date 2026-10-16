@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "cotton being",
-        "Rara",
-        "rara was",
-        "Operated",
         "December 2011",
         "Offered",
         "on-deman",
@@ -99,7 +95,11 @@
         "Microdon",
         "Microdon abditus",
         "Puxada",
-        "Puxada rede"
+        "Puxada rede",
+        "Crossnore,",
+        "Carolina: Crossnore",
+        "The",
+        "was 143"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -182,6 +182,8 @@
         "Chicago --[football]--> game, played",
         "Arcens: --[arcens]--> commune the",
         "Microdon --[abditus:]--> Microdon abditus",
-        "Puxada --[rede:]--> Puxada rede"
+        "Puxada --[rede:]--> Puxada rede",
+        "Crossnore, --[north]--> Carolina: Crossnore",
+        "The --[population]--> was 143"
     ]
 }
