@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Van:",
-        "ruined Armenian",
-        "Drama",
-        "EP): Drama",
         "Entertainment November",
         "Ataíde",
         "Ataíde the",
@@ -99,7 +95,11 @@
         "Was",
         "pop magazine",
         "Ran",
-        "nine years"
+        "nine years",
+        "Cryptocephalus",
+        "Cryptocephalus venustus",
+        "Found",
+        "Ameri"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -188,6 +188,8 @@
         "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia",
         "Number --[one]--> (magazine): Number",
         "Was --[british]--> pop magazine",
-        "Ran --[for]--> nine years"
+        "Ran --[for]--> nine years",
+        "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
+        "Found --[north]--> Ameri"
     ]
 }
