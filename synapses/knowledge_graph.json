@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Maine: New",
-        "was 577",
-        "Willie",
         "William Eldon",
         "Guy",
         "Joseph Harry",
@@ -99,7 +96,10 @@
         "Cryptid",
         "Cryptid Hunters",
         "Follows",
-        "twins Grace"
+        "twins Grace",
+        "Meteer",
+        "House: Meteer",
+        "1808 and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -192,6 +192,8 @@
         "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
         "Found --[north]--> Ameri",
         "Cryptid --[hunters:]--> Cryptid Hunters",
-        "Follows --[thirteen-year-old]--> twins Grace"
+        "Follows --[thirteen-year-old]--> twins Grace",
+        "Meteer --[store]--> House: Meteer",
+        "Was --[built]--> 1808 and"
     ]
 }
