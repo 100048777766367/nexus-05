@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Entertainment November",
-        "Ataíde",
-        "Ataíde the",
-        "New",
         "Maine: New",
         "was 577",
         "Willie",
@@ -99,7 +95,11 @@
         "Cryptocephalus",
         "Cryptocephalus venustus",
         "Found",
-        "Ameri"
+        "Ameri",
+        "Cryptid",
+        "Cryptid Hunters",
+        "Follows",
+        "twins Grace"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -190,6 +190,8 @@
         "Was --[british]--> pop magazine",
         "Ran --[for]--> nine years",
         "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
-        "Found --[north]--> Ameri"
+        "Found --[north]--> Ameri",
+        "Cryptid --[hunters:]--> Cryptid Hunters",
+        "Follows --[thirteen-year-old]--> twins Grace"
     ]
 }
