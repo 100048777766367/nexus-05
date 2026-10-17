@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "station: Medborgarplatsen,",
-        "Spirillum:",
         "genus",
         "Gram-negative",
         "the family",
@@ -99,7 +97,9 @@
         "Wasp",
         "Wasp waist",
         "Charlie",
-        "Charles Henry"
+        "Charles Henry",
+        "Delirium",
+        "film): Delirium"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -196,6 +196,7 @@
         "Meteer --[store]--> House: Meteer",
         "Was --[built]--> 1808 and",
         "Wasp --[waist:]--> Wasp waist",
-        "Charlie --[dees:]--> Charles Henry"
+        "Charlie --[dees:]--> Charles Henry",
+        "Delirium --[(1979]--> film): Delirium"
     ]
 }
