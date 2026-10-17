@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Joseph Harry",
-        "Medborgarplatsen",
         "station: Medborgarplatsen,",
         "Spirillum:",
         "genus",
@@ -99,7 +97,9 @@
         "House: Meteer",
         "1808 and",
         "Wasp",
-        "Wasp waist"
+        "Wasp waist",
+        "Charlie",
+        "Charles Henry"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -195,6 +195,7 @@
         "Follows --[thirteen-year-old]--> twins Grace",
         "Meteer --[store]--> House: Meteer",
         "Was --[built]--> 1808 and",
-        "Wasp --[waist:]--> Wasp waist"
+        "Wasp --[waist:]--> Wasp waist",
+        "Charlie --[dees:]--> Charles Henry"
     ]
 }
