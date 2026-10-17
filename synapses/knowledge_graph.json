@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "William Eldon",
-        "Guy",
         "Joseph Harry",
         "Medborgarplatsen",
         "station: Medborgarplatsen,",
@@ -99,7 +97,9 @@
         "twins Grace",
         "Meteer",
         "House: Meteer",
-        "1808 and"
+        "1808 and",
+        "Wasp",
+        "Wasp waist"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -194,6 +194,7 @@
         "Cryptid --[hunters:]--> Cryptid Hunters",
         "Follows --[thirteen-year-old]--> twins Grace",
         "Meteer --[store]--> House: Meteer",
-        "Was --[built]--> 1808 and"
+        "Was --[built]--> 1808 and",
+        "Wasp --[waist:]--> Wasp waist"
     ]
 }
