@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "genus",
-        "Gram-negative",
         "the family",
         "Žemaitkiemis",
         "Žemaitkiemis meteorite",
@@ -99,7 +97,9 @@
         "Charlie",
         "Charles Henry",
         "Delirium",
-        "film): Delirium"
+        "film): Delirium",
+        "Bony",
+        "\"Bony Moronie\""
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -197,6 +197,7 @@
         "Was --[built]--> 1808 and",
         "Wasp --[waist:]--> Wasp waist",
         "Charlie --[dees:]--> Charles Henry",
-        "Delirium --[(1979]--> film): Delirium"
+        "Delirium --[(1979]--> film): Delirium",
+        "Bony --[moronie:]--> \"Bony Moronie\""
     ]
 }
