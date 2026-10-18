@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "the family",
-        "Žemaitkiemis",
-        "Žemaitkiemis meteorite",
         "Yeatesia:",
         "putative genus",
         "Angle",
@@ -99,7 +96,10 @@
         "Delirium",
         "film): Delirium",
         "Bony",
-        "\"Bony Moronie\""
+        "\"Bony Moronie\"",
+        "Deborah",
+        "Mccarthy",
+        "diplomat and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -198,6 +198,8 @@
         "Wasp --[waist:]--> Wasp waist",
         "Charlie --[dees:]--> Charles Henry",
         "Delirium --[(1979]--> film): Delirium",
-        "Bony --[moronie:]--> \"Bony Moronie\""
+        "Bony --[moronie:]--> \"Bony Moronie\"",
+        "Deborah --[mccarthy:]--> Deborah",
+        "Mccarthy --[american]--> diplomat and"
     ]
 }
