@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yeatesia:",
-        "putative genus",
         "Angle",
         "Angle Entry",
         "Jen",
@@ -99,7 +97,9 @@
         "\"Bony Moronie\"",
         "Deborah",
         "Mccarthy",
-        "diplomat and"
+        "diplomat and",
+        "Mai",
+        "Single Collection:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -200,6 +200,7 @@
         "Delirium --[(1979]--> film): Delirium",
         "Bony --[moronie:]--> \"Bony Moronie\"",
         "Deborah --[mccarthy:]--> Deborah",
-        "Mccarthy --[american]--> diplomat and"
+        "Mccarthy --[american]--> diplomat and",
+        "Mai --[kuraki]--> Single Collection:"
     ]
 }
