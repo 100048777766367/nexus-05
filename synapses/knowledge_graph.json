@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Angle",
-        "Angle Entry",
         "Jen",
         "Jennifer Pawol",
         "the first",
@@ -99,7 +97,9 @@
         "Mccarthy",
         "diplomat and",
         "Mai",
-        "Single Collection:"
+        "Single Collection:",
+        "Múcura",
+        "Múcura Island"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -201,6 +201,7 @@
         "Bony --[moronie:]--> \"Bony Moronie\"",
         "Deborah --[mccarthy:]--> Deborah",
         "Mccarthy --[american]--> diplomat and",
-        "Mai --[kuraki]--> Single Collection:"
+        "Mai --[kuraki]--> Single Collection:",
+        "Múcura --[island:]--> Múcura Island"
     ]
 }
