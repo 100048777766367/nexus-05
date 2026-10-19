@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Jen",
-        "Jennifer Pawol",
         "the first",
         "Yenimahalle",
         "(M3): Yenimahalle",
@@ -99,7 +97,9 @@
         "Mai",
         "Single Collection:",
         "Múcura",
-        "Múcura Island"
+        "Múcura Island",
+        "Inertial",
+        "fusion: Inertial"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -202,6 +202,7 @@
         "Deborah --[mccarthy:]--> Deborah",
         "Mccarthy --[american]--> diplomat and",
         "Mai --[kuraki]--> Single Collection:",
-        "Múcura --[island:]--> Múcura Island"
+        "Múcura --[island:]--> Múcura Island",
+        "Inertial --[confinement]--> fusion: Inertial"
     ]
 }
