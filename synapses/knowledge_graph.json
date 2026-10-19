@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the first",
-        "Yenimahalle",
         "(M3): Yenimahalle",
         "located",
         "Nikolay",
@@ -99,7 +97,9 @@
         "Múcura",
         "Múcura Island",
         "Inertial",
-        "fusion: Inertial"
+        "fusion: Inertial",
+        "Lake",
+        "Lake R'Kiz"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -203,6 +203,7 @@
         "Mccarthy --[american]--> diplomat and",
         "Mai --[kuraki]--> Single Collection:",
         "Múcura --[island:]--> Múcura Island",
-        "Inertial --[confinement]--> fusion: Inertial"
+        "Inertial --[confinement]--> fusion: Inertial",
+        "Lake --[r'kiz:]--> Lake R'Kiz"
     ]
 }
