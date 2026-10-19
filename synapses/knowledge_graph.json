@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(M3): Yenimahalle",
-        "located",
         "Nikolay",
         "Nikolay Victorovich",
         "His",
@@ -99,7 +97,9 @@
         "Inertial",
         "fusion: Inertial",
         "Lake",
-        "Lake R'Kiz"
+        "Lake R'Kiz",
+        "45866:",
+        "also designated"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -204,6 +204,7 @@
         "Mai --[kuraki]--> Single Collection:",
         "Múcura --[island:]--> Múcura Island",
         "Inertial --[confinement]--> fusion: Inertial",
-        "Lake --[r'kiz:]--> Lake R'Kiz"
+        "Lake --[r'kiz:]--> Lake R'Kiz",
+        "45866: --[45866,]--> also designated"
     ]
 }
