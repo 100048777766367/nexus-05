@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "His",
-        "include",
         "Ten",
         "James",
         "was crew",
@@ -99,7 +97,9 @@
         "45866:",
         "also designated",
         "Cirrus",
-        "Parachute System:"
+        "Parachute System:",
+        "Julie",
+        "Juliana Roma"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -206,6 +206,7 @@
         "Inertial --[confinement]--> fusion: Inertial",
         "Lake --[r'kiz:]--> Lake R'Kiz",
         "45866: --[45866,]--> also designated",
-        "Cirrus --[airframe]--> Parachute System:"
+        "Cirrus --[airframe]--> Parachute System:",
+        "Julie --[dzerowicz:]--> Juliana Roma"
     ]
 }
