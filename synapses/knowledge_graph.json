@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was crew",
-        "Tomkins Cove,",
         "Scuderie",
         "Cocq: Scuderie",
         "International",
@@ -99,7 +97,9 @@
         "Julie",
         "Juliana Roma",
         "Hempstead",
-        "Courthouse: The"
+        "Courthouse: The",
+        "Audition",
+        "Audition 109"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -208,6 +208,7 @@
         "45866: --[45866,]--> also designated",
         "Cirrus --[airframe]--> Parachute System:",
         "Julie --[dzerowicz:]--> Juliana Roma",
-        "Hempstead --[county]--> Courthouse: The"
+        "Hempstead --[county]--> Courthouse: The",
+        "Audition --[109:]--> Audition 109"
     ]
 }
