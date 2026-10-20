@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ten",
-        "James",
         "was crew",
         "Tomkins Cove,",
         "Scuderie",
@@ -99,7 +97,9 @@
         "Cirrus",
         "Parachute System:",
         "Julie",
-        "Juliana Roma"
+        "Juliana Roma",
+        "Hempstead",
+        "Courthouse: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -207,6 +207,7 @@
         "Lake --[r'kiz:]--> Lake R'Kiz",
         "45866: --[45866,]--> also designated",
         "Cirrus --[airframe]--> Parachute System:",
-        "Julie --[dzerowicz:]--> Juliana Roma"
+        "Julie --[dzerowicz:]--> Juliana Roma",
+        "Hempstead --[county]--> Courthouse: The"
     ]
 }
