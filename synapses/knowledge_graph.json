@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Nikolay",
-        "Nikolay Victorovich",
         "His",
         "include",
         "Ten",
@@ -99,7 +97,9 @@
         "Lake",
         "Lake R'Kiz",
         "45866:",
-        "also designated"
+        "also designated",
+        "Cirrus",
+        "Parachute System:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -205,6 +205,7 @@
         "Múcura --[island:]--> Múcura Island",
         "Inertial --[confinement]--> fusion: Inertial",
         "Lake --[r'kiz:]--> Lake R'Kiz",
-        "45866: --[45866,]--> also designated"
+        "45866: --[45866,]--> also designated",
+        "Cirrus --[airframe]--> Parachute System:"
     ]
 }
