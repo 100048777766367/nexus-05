@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Won",
-        "gold and",
-        "Société",
-        "Parasitologie: Société",
         "Transition",
         "album): Transition",
         "April 2011",
@@ -99,7 +95,11 @@
         "Known",
         "for developing",
         "Anthony",
-        "Louise Viaer"
+        "Louise Viaer",
+        "Joseph's",
+        "Dunedin: Joseph's",
+        "Located",
+        "Rise the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -212,6 +212,8 @@
         "Audition --[109:]--> Audition 109",
         "Ken --[lacosse:]--> Ken LaCosse",
         "Known --[particularly]--> for developing",
-        "Anthony --[and]--> Louise Viaer"
+        "Anthony --[and]--> Louise Viaer",
+        "Joseph's --[cathedral,]--> Dunedin: Joseph's",
+        "Located --[city]--> Rise the"
     ]
 }
