@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Transition",
-        "album): Transition",
         "April 2011",
         "Dirt",
         "Dirt Candy",
@@ -99,7 +97,9 @@
         "Joseph's",
         "Dunedin: Joseph's",
         "Located",
-        "Rise the"
+        "Rise the",
+        "Aphelodoris",
+        "Aphelodoris brunnea,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -214,6 +214,7 @@
         "Known --[particularly]--> for developing",
         "Anthony --[and]--> Louise Viaer",
         "Joseph's --[cathedral,]--> Dunedin: Joseph's",
-        "Located --[city]--> Rise the"
+        "Located --[city]--> Rise the",
+        "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,"
     ]
 }
