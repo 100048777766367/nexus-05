@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Eric",
-        "Eric Lamaze",
         "Won",
         "gold and",
         "Société",
@@ -99,7 +97,9 @@
         "Ken",
         "Ken LaCosse",
         "Known",
-        "for developing"
+        "for developing",
+        "Anthony",
+        "Louise Viaer"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -211,6 +211,7 @@
         "Hempstead --[county]--> Courthouse: The",
         "Audition --[109:]--> Audition 109",
         "Ken --[lacosse:]--> Ken LaCosse",
-        "Known --[particularly]--> for developing"
+        "Known --[particularly]--> for developing",
+        "Anthony --[and]--> Louise Viaer"
     ]
 }
