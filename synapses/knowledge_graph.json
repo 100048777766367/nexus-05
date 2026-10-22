@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "football team:",
-        "Where",
-        "and Biology",
-        "Jazz",
         "Suite: Jazz",
         "Love",
         "Love Dance",
@@ -99,7 +95,11 @@
         "Taken",
         "his debut",
         "Presents:",
-        "Adventures"
+        "Adventures",
+        "Soubré:",
+        "city southwestern",
+        "Sub-prefecture",
+        "the seat"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -218,6 +218,8 @@
         "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,",
         "Bet --[\"bet]--> hip-hop song",
         "Taken --[from]--> his debut",
-        "Presents: --[the]--> Adventures"
+        "Presents: --[the]--> Adventures",
+        "Soubré: --[soubré]--> city southwestern",
+        "Sub-prefecture --[and]--> the seat"
     ]
 }
