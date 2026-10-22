@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "April 2011",
-        "Dirt",
-        "Dirt Candy",
-        "Chef",
-        "owner Amanda",
-        "Qatar",
         "football team:",
         "Where",
         "and Biology",
@@ -99,7 +93,13 @@
         "Located",
         "Rise the",
         "Aphelodoris",
-        "Aphelodoris brunnea,"
+        "Aphelodoris brunnea,",
+        "Bet",
+        "hip-hop song",
+        "Taken",
+        "his debut",
+        "Presents:",
+        "Adventures"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -215,6 +215,9 @@
         "Anthony --[and]--> Louise Viaer",
         "Joseph's --[cathedral,]--> Dunedin: Joseph's",
         "Located --[city]--> Rise the",
-        "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,"
+        "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,",
+        "Bet --[\"bet]--> hip-hop song",
+        "Taken --[from]--> his debut",
+        "Presents: --[the]--> Adventures"
     ]
 }
