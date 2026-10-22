@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Suite: Jazz",
-        "Love",
         "Love Dance",
         "Joe",
         "Joseph Aloysius",
@@ -99,7 +97,9 @@
         "Soubré:",
         "city southwestern",
         "Sub-prefecture",
-        "the seat"
+        "the seat",
+        "Wilhelm",
+        "Wilhelm Zoepf,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -220,6 +220,7 @@
         "Taken --[from]--> his debut",
         "Presents: --[the]--> Adventures",
         "Soubré: --[soubré]--> city southwestern",
-        "Sub-prefecture --[and]--> the seat"
+        "Sub-prefecture --[and]--> the seat",
+        "Wilhelm --[zoepf:]--> Wilhelm Zoepf,"
     ]
 }
