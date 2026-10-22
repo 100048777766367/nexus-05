@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Love Dance",
-        "Joe",
-        "Joseph Aloysius",
         "competition swimmer,",
         "Disconnected",
         "album): Disconnected",
@@ -99,7 +96,10 @@
         "Sub-prefecture",
         "the seat",
         "Wilhelm",
-        "Wilhelm Zoepf,"
+        "Wilhelm Zoepf,",
+        "Freer",
+        "Freer House",
+        "about 1728"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -221,6 +221,8 @@
         "Presents: --[the]--> Adventures",
         "Soubré: --[soubré]--> city southwestern",
         "Sub-prefecture --[and]--> the seat",
-        "Wilhelm --[zoepf:]--> Wilhelm Zoepf,"
+        "Wilhelm --[zoepf:]--> Wilhelm Zoepf,",
+        "Freer --[house:]--> Freer House",
+        "Was --[built]--> about 1728"
     ]
 }
