@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "novel): Bedlam",
-        "for the",
-        "Abelard",
         "Abelard Snazz",
         "André",
         "André Cerbonney",
@@ -99,7 +96,10 @@
         "Racecourse-class",
         "The Racecourse-class",
         "They",
-        "built"
+        "built",
+        "Waddinxveen",
+        "railway station:",
+        "opened June"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -225,6 +225,8 @@
         "Freer --[house:]--> Freer House",
         "Was --[built]--> about 1728",
         "Racecourse-class --[minesweeper:]--> The Racecourse-class",
-        "They --[were]--> built"
+        "They --[were]--> built",
+        "Waddinxveen --[noord]--> railway station:",
+        "The --[station]--> opened June"
     ]
 }
