@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "competition swimmer,",
-        "Disconnected",
-        "album): Disconnected",
-        "Bedlam",
         "novel): Bedlam",
         "for the",
         "Abelard",
@@ -99,7 +95,11 @@
         "Wilhelm Zoepf,",
         "Freer",
         "Freer House",
-        "about 1728"
+        "about 1728",
+        "Racecourse-class",
+        "The Racecourse-class",
+        "They",
+        "built"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -223,6 +223,8 @@
         "Sub-prefecture --[and]--> the seat",
         "Wilhelm --[zoepf:]--> Wilhelm Zoepf,",
         "Freer --[house:]--> Freer House",
-        "Was --[built]--> about 1728"
+        "Was --[built]--> about 1728",
+        "Racecourse-class --[minesweeper:]--> The Racecourse-class",
+        "They --[were]--> built"
     ]
 }
