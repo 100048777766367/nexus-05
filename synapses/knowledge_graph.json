@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Abelard Snazz",
-        "André",
         "André Cerbonney",
         "Competed",
         "men's 100",
@@ -99,7 +97,9 @@
         "built",
         "Waddinxveen",
         "railway station:",
-        "opened June"
+        "opened June",
+        "Ted",
+        "(politician): Edmund"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -227,6 +227,7 @@
         "Racecourse-class --[minesweeper:]--> The Racecourse-class",
         "They --[were]--> built",
         "Waddinxveen --[noord]--> railway station:",
-        "The --[station]--> opened June"
+        "The --[station]--> opened June",
+        "Ted --[maher]--> (politician): Edmund"
     ]
 }
