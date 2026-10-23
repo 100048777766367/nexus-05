@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "André Cerbonney",
-        "Competed",
         "men's 100",
         "Chicago",
         "game: The",
@@ -99,7 +97,9 @@
         "railway station:",
         "opened June",
         "Ted",
-        "(politician): Edmund"
+        "(politician): Edmund",
+        "Eastern",
+        "toad: Eastern"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -228,6 +228,7 @@
         "They --[were]--> built",
         "Waddinxveen --[noord]--> railway station:",
         "The --[station]--> opened June",
-        "Ted --[maher]--> (politician): Edmund"
+        "Ted --[maher]--> (politician): Edmund",
+        "Eastern --[spadefoot]--> toad: Eastern"
     ]
 }
