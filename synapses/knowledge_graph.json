@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Arcens:",
-        "commune the",
         "Microdon",
         "Microdon abditus",
         "Puxada",
@@ -99,7 +97,9 @@
         "Echo",
         "Echo Heart",
         "Desert",
-        "(film): Desert"
+        "(film): Desert",
+        "Hristijan",
+        "Hristijan Mickoski"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -231,6 +231,7 @@
         "Ted --[maher]--> (politician): Edmund",
         "Eastern --[spadefoot]--> toad: Eastern",
         "Echo --[heart:]--> Echo Heart",
-        "Desert --[passage]--> (film): Desert"
+        "Desert --[passage]--> (film): Desert",
+        "Hristijan --[mickoski:]--> Hristijan Mickoski"
     ]
 }
