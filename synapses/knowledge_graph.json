@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "game: The",
-        "game, played",
         "Arcens:",
         "commune the",
         "Microdon",
@@ -99,7 +97,9 @@
         "Eastern",
         "toad: Eastern",
         "Echo",
-        "Echo Heart"
+        "Echo Heart",
+        "Desert",
+        "(film): Desert"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -230,6 +230,7 @@
         "The --[station]--> opened June",
         "Ted --[maher]--> (politician): Edmund",
         "Eastern --[spadefoot]--> toad: Eastern",
-        "Echo --[heart:]--> Echo Heart"
+        "Echo --[heart:]--> Echo Heart",
+        "Desert --[passage]--> (film): Desert"
     ]
 }
