@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Microdon",
-        "Microdon abditus",
-        "Puxada",
-        "Puxada rede",
         "Crossnore,",
         "Carolina: Crossnore",
         "The",
@@ -99,7 +95,11 @@
         "Desert",
         "(film): Desert",
         "Hristijan",
-        "Hristijan Mickoski"
+        "Hristijan Mickoski",
+        "Zinnia",
+        "Zinnia peruviana,",
+        "Native",
+        "Amer"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -232,6 +232,8 @@
         "Eastern --[spadefoot]--> toad: Eastern",
         "Echo --[heart:]--> Echo Heart",
         "Desert --[passage]--> (film): Desert",
-        "Hristijan --[mickoski:]--> Hristijan Mickoski"
+        "Hristijan --[mickoski:]--> Hristijan Mickoski",
+        "Zinnia --[peruviana:]--> Zinnia peruviana,",
+        "Native --[south]--> Amer"
     ]
 }
