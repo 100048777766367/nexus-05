@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Number",
-        "(magazine): Number",
         "Was",
         "pop magazine",
         "Ran",
@@ -99,7 +97,9 @@
         "Litochoro:",
         "town and",
         "Joséphine",
-        "Geneviève Joséphine"
+        "Geneviève Joséphine",
+        "Friend",
+        "Friend Oscar"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -237,6 +237,7 @@
         "Native --[south]--> Amer",
         "Pachyprosopis --[plebeia:]--> Pachyprosopis plebeia,",
         "Litochoro: --[litochoro]--> town and",
-        "Joséphine --[fodor:]--> Geneviève Joséphine"
+        "Joséphine --[fodor:]--> Geneviève Joséphine",
+        "Friend --[oscar:]--> Friend Oscar"
     ]
 }
