@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Crossnore,",
-        "Carolina: Crossnore",
         "The",
         "was 143",
         "Bryolymnia",
@@ -99,7 +97,9 @@
         "Zinnia",
         "Zinnia peruviana,",
         "Native",
-        "Amer"
+        "Amer",
+        "Pachyprosopis",
+        "Pachyprosopis plebeia,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -234,6 +234,7 @@
         "Desert --[passage]--> (film): Desert",
         "Hristijan --[mickoski:]--> Hristijan Mickoski",
         "Zinnia --[peruviana:]--> Zinnia peruviana,",
-        "Native --[south]--> Amer"
+        "Native --[south]--> Amer",
+        "Pachyprosopis --[plebeia:]--> Pachyprosopis plebeia,"
     ]
 }
