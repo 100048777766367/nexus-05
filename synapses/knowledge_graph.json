@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "was 143",
         "Bryolymnia",
         "Bryolymnia viridimedia",
         "Number",
@@ -99,7 +97,9 @@
         "Native",
         "Amer",
         "Pachyprosopis",
-        "Pachyprosopis plebeia,"
+        "Pachyprosopis plebeia,",
+        "Litochoro:",
+        "town and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -235,6 +235,7 @@
         "Hristijan --[mickoski:]--> Hristijan Mickoski",
         "Zinnia --[peruviana:]--> Zinnia peruviana,",
         "Native --[south]--> Amer",
-        "Pachyprosopis --[plebeia:]--> Pachyprosopis plebeia,"
+        "Pachyprosopis --[plebeia:]--> Pachyprosopis plebeia,",
+        "Litochoro: --[litochoro]--> town and"
     ]
 }
