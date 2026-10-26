@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "pop magazine",
         "Ran",
         "nine years",
         "Cryptocephalus",
@@ -99,7 +97,9 @@
         "Joséphine",
         "Geneviève Joséphine",
         "Friend",
-        "Friend Oscar"
+        "Friend Oscar",
+        "Rabbalshede:",
+        "locality situated"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -238,6 +238,7 @@
         "Pachyprosopis --[plebeia:]--> Pachyprosopis plebeia,",
         "Litochoro: --[litochoro]--> town and",
         "Joséphine --[fodor:]--> Geneviève Joséphine",
-        "Friend --[oscar:]--> Friend Oscar"
+        "Friend --[oscar:]--> Friend Oscar",
+        "Rabbalshede: --[rabbalshede]--> locality situated"
     ]
 }
