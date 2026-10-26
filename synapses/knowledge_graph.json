@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ran",
-        "nine years",
         "Cryptocephalus",
         "Cryptocephalus venustus",
         "Found",
@@ -99,7 +97,9 @@
         "Friend",
         "Friend Oscar",
         "Rabbalshede:",
-        "locality situated"
+        "locality situated",
+        "The",
+        "Bears: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -239,6 +239,7 @@
         "Litochoro: --[litochoro]--> town and",
         "Joséphine --[fodor:]--> Geneviève Joséphine",
         "Friend --[oscar:]--> Friend Oscar",
-        "Rabbalshede: --[rabbalshede]--> locality situated"
+        "Rabbalshede: --[rabbalshede]--> locality situated",
+        "The --[hillbilly]--> Bears: The"
     ]
 }
