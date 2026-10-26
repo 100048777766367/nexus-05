@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Cryptocephalus",
-        "Cryptocephalus venustus",
-        "Found",
-        "Ameri",
         "Cryptid",
         "Cryptid Hunters",
         "Follows",
@@ -99,7 +95,11 @@
         "Rabbalshede:",
         "locality situated",
         "The",
-        "Bears: The"
+        "Bears: The",
+        "Luther",
+        "College Seminary:",
+        "Through",
+        "college and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -240,6 +240,8 @@
         "Joséphine --[fodor:]--> Geneviève Joséphine",
         "Friend --[oscar:]--> Friend Oscar",
         "Rabbalshede: --[rabbalshede]--> locality situated",
-        "The --[hillbilly]--> Bears: The"
+        "The --[hillbilly]--> Bears: The",
+        "Luther --[rice]--> College Seminary:",
+        "Through --[the]--> college and"
     ]
 }
