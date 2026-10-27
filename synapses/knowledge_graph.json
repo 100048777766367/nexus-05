@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Follows",
-        "twins Grace",
         "Meteer",
         "House: Meteer",
         "1808 and",
@@ -99,7 +97,9 @@
         "Through",
         "college and",
         "Via",
-        "The VIA"
+        "The VIA",
+        "Summer",
+        "\"Summer Uptown\""
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -243,6 +243,7 @@
         "The --[hillbilly]--> Bears: The",
         "Luther --[rice]--> College Seminary:",
         "Through --[the]--> college and",
-        "Via --[c7:]--> The VIA"
+        "Via --[c7:]--> The VIA",
+        "Summer --[uptown:]--> \"Summer Uptown\""
     ]
 }
