@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Meteer",
-        "House: Meteer",
         "1808 and",
         "Wasp",
         "Wasp waist",
@@ -99,7 +97,9 @@
         "Via",
         "The VIA",
         "Summer",
-        "\"Summer Uptown\""
+        "\"Summer Uptown\"",
+        "Gimpo",
+        "Airport: Gimpo"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -244,6 +244,7 @@
         "Luther --[rice]--> College Seminary:",
         "Through --[the]--> college and",
         "Via --[c7:]--> The VIA",
-        "Summer --[uptown:]--> \"Summer Uptown\""
+        "Summer --[uptown:]--> \"Summer Uptown\"",
+        "Gimpo --[international]--> Airport: Gimpo"
     ]
 }
