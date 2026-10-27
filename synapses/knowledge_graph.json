@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cryptid",
-        "Cryptid Hunters",
         "Follows",
         "twins Grace",
         "Meteer",
@@ -99,7 +97,9 @@
         "Luther",
         "College Seminary:",
         "Through",
-        "college and"
+        "college and",
+        "Via",
+        "The VIA"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -242,6 +242,7 @@
         "Rabbalshede: --[rabbalshede]--> locality situated",
         "The --[hillbilly]--> Bears: The",
         "Luther --[rice]--> College Seminary:",
-        "Through --[the]--> college and"
+        "Through --[the]--> college and",
+        "Via --[c7:]--> The VIA"
     ]
 }
