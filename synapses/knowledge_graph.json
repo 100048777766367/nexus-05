@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1808 and",
-        "Wasp",
         "Wasp waist",
         "Charlie",
         "Charles Henry",
@@ -99,7 +97,9 @@
         "Summer",
         "\"Summer Uptown\"",
         "Gimpo",
-        "Airport: Gimpo"
+        "Airport: Gimpo",
+        "Meridian",
+        "Bigbee Railroad:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -245,6 +245,7 @@
         "Through --[the]--> college and",
         "Via --[c7:]--> The VIA",
         "Summer --[uptown:]--> \"Summer Uptown\"",
-        "Gimpo --[international]--> Airport: Gimpo"
+        "Gimpo --[international]--> Airport: Gimpo",
+        "Meridian --[and]--> Bigbee Railroad:"
     ]
 }
