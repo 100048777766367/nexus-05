@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Charles Henry",
-        "Delirium",
-        "film): Delirium",
-        "Bony",
         "\"Bony Moronie\"",
         "Deborah",
         "Mccarthy",
@@ -99,7 +95,11 @@
         "Meridian",
         "Bigbee Railroad:",
         "People's",
-        "Army (Myanmar):"
+        "Army (Myanmar):",
+        "Yusuf",
+        "Yusuf Mohamed",
+        "During",
+        "life, was"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -247,6 +247,8 @@
         "Summer --[uptown:]--> \"Summer Uptown\"",
         "Gimpo --[international]--> Airport: Gimpo",
         "Meridian --[and]--> Bigbee Railroad:",
-        "People's --[liberation]--> Army (Myanmar):"
+        "People's --[liberation]--> Army (Myanmar):",
+        "Yusuf --[dadoo:]--> Yusuf Mohamed",
+        "During --[his]--> life, was"
     ]
 }
