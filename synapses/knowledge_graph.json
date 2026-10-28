@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wasp waist",
-        "Charlie",
         "Charles Henry",
         "Delirium",
         "film): Delirium",
@@ -99,7 +97,9 @@
         "Gimpo",
         "Airport: Gimpo",
         "Meridian",
-        "Bigbee Railroad:"
+        "Bigbee Railroad:",
+        "People's",
+        "Army (Myanmar):"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -246,6 +246,7 @@
         "Via --[c7:]--> The VIA",
         "Summer --[uptown:]--> \"Summer Uptown\"",
         "Gimpo --[international]--> Airport: Gimpo",
-        "Meridian --[and]--> Bigbee Railroad:"
+        "Meridian --[and]--> Bigbee Railroad:",
+        "People's --[liberation]--> Army (Myanmar):"
     ]
 }
