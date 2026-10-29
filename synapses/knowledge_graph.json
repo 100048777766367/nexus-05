@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "\"Bony Moronie\"",
-        "Deborah",
-        "Mccarthy",
-        "diplomat and",
         "Mai",
         "Single Collection:",
         "Múcura",
@@ -99,7 +95,11 @@
         "Yusuf",
         "Yusuf Mohamed",
         "During",
-        "life, was"
+        "life, was",
+        "Denny",
+        "Denzil Eugene",
+        "Jones",
+        "13-term member"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -249,6 +249,8 @@
         "Meridian --[and]--> Bigbee Railroad:",
         "People's --[liberation]--> Army (Myanmar):",
         "Yusuf --[dadoo:]--> Yusuf Mohamed",
-        "During --[his]--> life, was"
+        "During --[his]--> life, was",
+        "Denny --[jones:]--> Denzil Eugene",
+        "Jones --[remembered]--> 13-term member"
     ]
 }
