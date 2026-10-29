@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Mai",
-        "Single Collection:",
-        "Múcura",
-        "Múcura Island",
         "Inertial",
         "fusion: Inertial",
         "Lake",
@@ -99,11 +95,13 @@
         "Denny",
         "Denzil Eugene",
         "Jones",
-        "13-term member"
+        "13-term member",
+        "Idola",
+        "Idola Saint-Jean",
+        "She",
+        "her life"
     ],
     "edges": [
-        "Mikael --[rickfors:]--> Mikael Rickfors",
-        "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
@@ -251,6 +249,8 @@
         "Yusuf --[dadoo:]--> Yusuf Mohamed",
         "During --[his]--> life, was",
         "Denny --[jones:]--> Denzil Eugene",
-        "Jones --[remembered]--> 13-term member"
+        "Jones --[remembered]--> 13-term member",
+        "Idola --[saint-jean:]--> Idola Saint-Jean",
+        "She --[devoted]--> her life"
     ]
 }
