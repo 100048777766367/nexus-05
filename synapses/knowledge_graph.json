@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Inertial",
-        "fusion: Inertial",
         "Lake",
         "Lake R'Kiz",
         "45866:",
@@ -99,10 +97,11 @@
         "Idola",
         "Idola Saint-Jean",
         "She",
-        "her life"
+        "her life",
+        "Nexus-05:",
+        "biến hình"
     ],
     "edges": [
-        "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
@@ -251,6 +250,7 @@
         "Denny --[jones:]--> Denzil Eugene",
         "Jones --[remembered]--> 13-term member",
         "Idola --[saint-jean:]--> Idola Saint-Jean",
-        "She --[devoted]--> her life"
+        "She --[devoted]--> her life",
+        "Nexus-05: --[trạm]--> biến hình"
     ]
 }
