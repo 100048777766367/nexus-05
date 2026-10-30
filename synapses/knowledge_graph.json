@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "45866:",
-        "also designated",
         "Cirrus",
         "Parachute System:",
         "Julie",
@@ -99,10 +97,11 @@
         "Nexus-05:",
         "biến hình",
         "Tender",
-        "Tender Hooks"
+        "Tender Hooks",
+        "Elmina",
+        "Museum: The"
     ],
     "edges": [
-        "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
@@ -251,6 +250,7 @@
         "Idola --[saint-jean:]--> Idola Saint-Jean",
         "She --[devoted]--> her life",
         "Nexus-05: --[trạm]--> biến hình",
-        "Tender --[hooks:]--> Tender Hooks"
+        "Tender --[hooks:]--> Tender Hooks",
+        "Elmina --[java]--> Museum: The"
     ]
 }
