@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lake",
-        "Lake R'Kiz",
         "45866:",
         "also designated",
         "Cirrus",
@@ -99,10 +97,11 @@
         "She",
         "her life",
         "Nexus-05:",
-        "biến hình"
+        "biến hình",
+        "Tender",
+        "Tender Hooks"
     ],
     "edges": [
-        "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
@@ -251,6 +250,7 @@
         "Jones --[remembered]--> 13-term member",
         "Idola --[saint-jean:]--> Idola Saint-Jean",
         "She --[devoted]--> her life",
-        "Nexus-05: --[trạm]--> biến hình"
+        "Nexus-05: --[trạm]--> biến hình",
+        "Tender --[hooks:]--> Tender Hooks"
     ]
 }
