@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Audition",
-        "Audition 109",
         "Ken",
         "Ken LaCosse",
         "Known",
@@ -99,10 +97,11 @@
         "Strength",
         "Strength Survive",
         "Was",
-        "January 31,"
+        "January 31,",
+        "Libreoffice",
+        "LibreOffice Calc"
     ],
     "edges": [
-        "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
@@ -251,6 +250,7 @@
         "Elmina --[java]--> Museum: The",
         "West --[coast]--> Eagles (AFL",
         "Strength --[survive:]--> Strength Survive",
-        "Was --[released]--> January 31,"
+        "Was --[released]--> January 31,",
+        "Libreoffice --[calc:]--> LibreOffice Calc"
     ]
 }
