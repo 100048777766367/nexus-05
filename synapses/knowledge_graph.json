@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ken",
-        "Ken LaCosse",
         "Known",
         "for developing",
         "Anthony",
@@ -99,10 +97,11 @@
         "Was",
         "January 31,",
         "Libreoffice",
-        "LibreOffice Calc"
+        "LibreOffice Calc",
+        "Fort",
+        "radar station:"
     ],
     "edges": [
-        "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
@@ -251,6 +250,7 @@
         "West --[coast]--> Eagles (AFL",
         "Strength --[survive:]--> Strength Survive",
         "Was --[released]--> January 31,",
-        "Libreoffice --[calc:]--> LibreOffice Calc"
+        "Libreoffice --[calc:]--> LibreOffice Calc",
+        "Fort --[heath]--> radar station:"
     ]
 }
