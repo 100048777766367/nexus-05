@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cirrus",
-        "Parachute System:",
         "Julie",
         "Juliana Roma",
         "Hempstead",
@@ -99,10 +97,11 @@
         "Tender",
         "Tender Hooks",
         "Elmina",
-        "Museum: The"
+        "Museum: The",
+        "West",
+        "Eagles (AFL"
     ],
     "edges": [
-        "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
@@ -251,6 +250,7 @@
         "She --[devoted]--> her life",
         "Nexus-05: --[trạm]--> biến hình",
         "Tender --[hooks:]--> Tender Hooks",
-        "Elmina --[java]--> Museum: The"
+        "Elmina --[java]--> Museum: The",
+        "West --[coast]--> Eagles (AFL"
     ]
 }
