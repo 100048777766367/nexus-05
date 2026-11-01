@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Dunedin: Joseph's",
-        "Located",
-        "Rise the",
         "Aphelodoris",
         "Aphelodoris brunnea,",
         "Bet",
@@ -99,11 +96,12 @@
         "collection seven",
         "five editions",
         "Liu",
-        "Liu Mingchuan,"
+        "Liu Mingchuan,",
+        "Ingrid",
+        "Ingrid Goude",
+        "actress B-movie"
     ],
     "edges": [
-        "Wodehouse, --[and]--> features the",
-        "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
@@ -251,6 +249,8 @@
         "Fort --[heath]--> radar station:",
         "Vekhi: --[vekhi]--> collection seven",
         "Was --[distributed]--> five editions",
-        "Liu --[mingchuan:]--> Liu Mingchuan,"
+        "Liu --[mingchuan:]--> Liu Mingchuan,",
+        "Ingrid --[goude:]--> Ingrid Goude",
+        "She --[became]--> actress B-movie"
     ]
 }
