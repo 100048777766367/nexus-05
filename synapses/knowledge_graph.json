@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Known",
-        "for developing",
-        "Anthony",
         "Louise Viaer",
         "Joseph's",
         "Dunedin: Joseph's",
@@ -99,11 +96,12 @@
         "Libreoffice",
         "LibreOffice Calc",
         "Fort",
-        "radar station:"
+        "radar station:",
+        "Vekhi:",
+        "collection seven",
+        "five editions"
     ],
     "edges": [
-        "Lyckeby: --[lyckeby]--> village Karlskrona",
-        "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
@@ -251,6 +249,8 @@
         "Strength --[survive:]--> Strength Survive",
         "Was --[released]--> January 31,",
         "Libreoffice --[calc:]--> LibreOffice Calc",
-        "Fort --[heath]--> radar station:"
+        "Fort --[heath]--> radar station:",
+        "Vekhi: --[vekhi]--> collection seven",
+        "Was --[distributed]--> five editions"
     ]
 }
