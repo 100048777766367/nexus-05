@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Aphelodoris brunnea,",
-        "Bet",
-        "hip-hop song",
-        "Taken",
         "his debut",
         "Presents:",
         "Adventures",
@@ -99,12 +95,13 @@
         "Ingrid",
         "Ingrid Goude",
         "actress B-movie",
-        "Second Avenue:"
+        "Second Avenue:",
+        "Aileen",
+        "Gunther",
+        "politician",
+        "Democratic member"
     ],
     "edges": [
-        "Leticia --[cline:]--> Leticia Ann",
-        "Leticia --[cline]--> American journalist",
-        "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
@@ -251,6 +248,9 @@
         "Liu --[mingchuan:]--> Liu Mingchuan,",
         "Ingrid --[goude:]--> Ingrid Goude",
         "She --[became]--> actress B-movie",
-        "The --[prisoner]--> Second Avenue:"
+        "The --[prisoner]--> Second Avenue:",
+        "Aileen --[gunther:]--> Aileen",
+        "Gunther --[american]--> politician",
+        "She --[was]--> Democratic member"
     ]
 }
