@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Aphelodoris",
         "Aphelodoris brunnea,",
         "Bet",
         "hip-hop song",
@@ -99,10 +98,10 @@
         "Liu Mingchuan,",
         "Ingrid",
         "Ingrid Goude",
-        "actress B-movie"
+        "actress B-movie",
+        "Second Avenue:"
     ],
     "edges": [
-        "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
@@ -251,6 +250,7 @@
         "Was --[distributed]--> five editions",
         "Liu --[mingchuan:]--> Liu Mingchuan,",
         "Ingrid --[goude:]--> Ingrid Goude",
-        "She --[became]--> actress B-movie"
+        "She --[became]--> actress B-movie",
+        "The --[prisoner]--> Second Avenue:"
     ]
 }
