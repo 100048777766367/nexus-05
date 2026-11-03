@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Wilhelm",
-        "Wilhelm Zoepf,",
-        "Freer",
-        "Freer House",
         "about 1728",
         "Racecourse-class",
         "The Racecourse-class",
@@ -99,11 +95,13 @@
         "Ngc",
         "NGC 150",
         "About",
-        "light years"
+        "light years",
+        "Big",
+        "Mountains: The",
+        "State",
+        "near the"
     ],
     "edges": [
-        "Patrick --[mcguinness]--> Three-Decker: The",
-        "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
@@ -251,6 +249,8 @@
         "Blephariceridae: --[the]--> Blephariceridae, commonly",
         "The --[adults]--> rese",
         "Ngc --[150:]--> NGC 150",
-        "About --[million]--> light years"
+        "About --[million]--> light years",
+        "Big --[maria]--> Mountains: The",
+        "State --[california,]--> near the"
     ]
 }
