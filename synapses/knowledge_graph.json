@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "his debut",
-        "Presents:",
-        "Adventures",
         "Soubré:",
         "city southwestern",
         "Sub-prefecture",
@@ -99,11 +96,12 @@
         "Aileen",
         "Gunther",
         "politician",
-        "Democratic member"
+        "Democratic member",
+        "Blephariceridae:",
+        "Blephariceridae, commonly",
+        "rese"
     ],
     "edges": [
-        "Showalter: --[joseph]--> Baltzell Showalter",
-        "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
@@ -251,6 +249,8 @@
         "The --[prisoner]--> Second Avenue:",
         "Aileen --[gunther:]--> Aileen",
         "Gunther --[american]--> politician",
-        "She --[was]--> Democratic member"
+        "She --[was]--> Democratic member",
+        "Blephariceridae: --[the]--> Blephariceridae, commonly",
+        "The --[adults]--> rese"
     ]
 }
