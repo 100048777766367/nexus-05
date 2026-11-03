@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Soubré:",
-        "city southwestern",
-        "Sub-prefecture",
-        "the seat",
         "Wilhelm",
         "Wilhelm Zoepf,",
         "Freer",
@@ -99,11 +95,13 @@
         "Democratic member",
         "Blephariceridae:",
         "Blephariceridae, commonly",
-        "rese"
+        "rese",
+        "Ngc",
+        "NGC 150",
+        "About",
+        "light years"
     ],
     "edges": [
-        "Sayed --[ashraful]--> Islam: Sayed",
-        "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
@@ -251,6 +249,8 @@
         "Gunther --[american]--> politician",
         "She --[was]--> Democratic member",
         "Blephariceridae: --[the]--> Blephariceridae, commonly",
-        "The --[adults]--> rese"
+        "The --[adults]--> rese",
+        "Ngc --[150:]--> NGC 150",
+        "About --[million]--> light years"
     ]
 }
