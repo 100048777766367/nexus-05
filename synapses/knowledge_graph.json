@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "about 1728",
-        "Racecourse-class",
-        "The Racecourse-class",
-        "They",
-        "built",
         "Waddinxveen",
         "railway station:",
         "opened June",
@@ -99,12 +94,14 @@
         "Big",
         "Mountains: The",
         "State",
-        "near the"
+        "near the",
+        "Louis–style",
+        "type pizza",
+        "Louis,",
+        "United States,",
+        "has"
     ],
     "edges": [
-        "The --[amount]--> cotton being",
-        "Rara --[(service):]--> rara was",
-        "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
         "Halifax --[resolves:]--> The Halifax",
         "Erik --[källgren:]--> Erik Källgren",
@@ -251,6 +248,9 @@
         "Ngc --[150:]--> NGC 150",
         "About --[million]--> light years",
         "Big --[maria]--> Mountains: The",
-        "State --[california,]--> near the"
+        "State --[california,]--> near the",
+        "Louis–style --[pizza]--> type pizza",
+        "Louis, --[missouri,]--> United States,",
+        "The --[pizza]--> has"
     ]
 }
