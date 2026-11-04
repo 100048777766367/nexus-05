@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Eastern",
-        "toad: Eastern",
-        "Echo",
-        "Echo Heart",
-        "Desert",
         "(film): Desert",
         "Hristijan",
         "Hristijan Mickoski",
@@ -99,12 +94,14 @@
         "General Levi",
         "Chase",
         "American fighter",
-        "for"
+        "for",
+        "John",
+        "Zimmerman",
+        "(1843–1925)",
+        "American theater",
+        "the members"
     ],
     "edges": [
-        "Thomas --[monastery,]--> Van:",
-        "Thomas --[monastery]--> ruined Armenian",
-        "Drama --[(aespa]--> EP): Drama",
         "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
@@ -251,6 +248,9 @@
         "The --[pizza]--> has",
         "Chase: --[major]--> General Levi",
         "Chase --[was]--> American fighter",
-        "Chase --[served]--> for"
+        "Chase --[served]--> for",
+        "John --[frederick]--> Zimmerman",
+        "(1843–1925) --[was]--> American theater",
+        "Was --[one]--> the members"
     ]
 }
