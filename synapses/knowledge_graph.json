@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Waddinxveen",
-        "railway station:",
-        "opened June",
-        "Ted",
-        "(politician): Edmund",
         "Eastern",
         "toad: Eastern",
         "Echo",
@@ -99,12 +94,14 @@
         "type pizza",
         "Louis,",
         "United States,",
-        "has"
+        "has",
+        "Chase:",
+        "General Levi",
+        "Chase",
+        "American fighter",
+        "for"
     ],
     "edges": [
-        "Offered --[ad-free,]--> on-deman",
-        "Halifax --[resolves:]--> The Halifax",
-        "Erik --[källgren:]--> Erik Källgren",
         "Thomas --[monastery,]--> Van:",
         "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
@@ -251,6 +248,9 @@
         "State --[california,]--> near the",
         "Louis–style --[pizza]--> type pizza",
         "Louis, --[missouri,]--> United States,",
-        "The --[pizza]--> has"
+        "The --[pizza]--> has",
+        "Chase: --[major]--> General Levi",
+        "Chase --[was]--> American fighter",
+        "Chase --[served]--> for"
     ]
 }
