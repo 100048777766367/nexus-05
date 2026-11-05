@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Zinnia peruviana,",
-        "Native",
         "Amer",
         "Pachyprosopis",
         "Pachyprosopis plebeia,",
@@ -99,10 +97,11 @@
         "Allotinus",
         "Allotinus fabius,",
         "Love,",
-        "Steal: Love,"
+        "Steal: Love,",
+        "1918",
+        "Lakes Navy"
     ],
     "edges": [
-        "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
@@ -251,6 +250,7 @@
         "(1843–1925) --[was]--> American theater",
         "Was --[one]--> the members",
         "Allotinus --[fabius:]--> Allotinus fabius,",
-        "Love, --[cheat]--> Steal: Love,"
+        "Love, --[cheat]--> Steal: Love,",
+        "1918 --[great]--> Lakes Navy"
     ]
 }
