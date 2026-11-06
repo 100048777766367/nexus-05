@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Amer",
-        "Pachyprosopis",
         "Pachyprosopis plebeia,",
         "Litochoro:",
         "town and",
@@ -99,10 +97,11 @@
         "Love,",
         "Steal: Love,",
         "1918",
-        "Lakes Navy"
+        "Lakes Navy",
+        "Proby",
+        "singer, songwriter,"
     ],
     "edges": [
-        "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
@@ -251,6 +250,7 @@
         "Was --[one]--> the members",
         "Allotinus --[fabius:]--> Allotinus fabius,",
         "Love, --[cheat]--> Steal: Love,",
-        "1918 --[great]--> Lakes Navy"
+        "1918 --[great]--> Lakes Navy",
+        "Proby --[american]--> singer, songwriter,"
     ]
 }
