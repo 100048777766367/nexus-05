@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pachyprosopis plebeia,",
-        "Litochoro:",
         "town and",
         "Joséphine",
         "Geneviève Joséphine",
@@ -99,10 +97,11 @@
         "1918",
         "Lakes Navy",
         "Proby",
-        "singer, songwriter,"
+        "singer, songwriter,",
+        "Cypherotylus",
+        "Cypherotylus californicus,"
     ],
     "edges": [
-        "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
@@ -251,6 +250,7 @@
         "Allotinus --[fabius:]--> Allotinus fabius,",
         "Love, --[cheat]--> Steal: Love,",
         "1918 --[great]--> Lakes Navy",
-        "Proby --[american]--> singer, songwriter,"
+        "Proby --[american]--> singer, songwriter,",
+        "Cypherotylus --[californicus:]--> Cypherotylus californicus,"
     ]
 }
