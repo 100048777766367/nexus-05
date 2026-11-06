@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "town and",
-        "Joséphine",
-        "Geneviève Joséphine",
         "Friend",
         "Friend Oscar",
         "Rabbalshede:",
@@ -99,11 +96,12 @@
         "Proby",
         "singer, songwriter,",
         "Cypherotylus",
-        "Cypherotylus californicus,"
+        "Cypherotylus californicus,",
+        "Satsuma",
+        "Satsuma kiriko",
+        "the Satsuma"
     ],
     "edges": [
-        "Guy --[carbonneau:]--> Joseph Harry",
-        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
@@ -251,6 +249,8 @@
         "Love, --[cheat]--> Steal: Love,",
         "1918 --[great]--> Lakes Navy",
         "Proby --[american]--> singer, songwriter,",
-        "Cypherotylus --[californicus:]--> Cypherotylus californicus,"
+        "Cypherotylus --[californicus:]--> Cypherotylus californicus,",
+        "Satsuma --[kiriko:]--> Satsuma kiriko",
+        "Was --[manufactured]--> the Satsuma"
     ]
 }
