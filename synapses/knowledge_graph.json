@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Friend",
-        "Friend Oscar",
         "Rabbalshede:",
         "locality situated",
         "The",
@@ -99,10 +97,11 @@
         "Cypherotylus californicus,",
         "Satsuma",
         "Satsuma kiriko",
-        "the Satsuma"
+        "the Satsuma",
+        "Vellingshøj",
+        "station: Vellingshøj"
     ],
     "edges": [
-        "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Yeatesia: --[yeatesia]--> putative genus",
@@ -251,6 +250,7 @@
         "Proby --[american]--> singer, songwriter,",
         "Cypherotylus --[californicus:]--> Cypherotylus californicus,",
         "Satsuma --[kiriko:]--> Satsuma kiriko",
-        "Was --[manufactured]--> the Satsuma"
+        "Was --[manufactured]--> the Satsuma",
+        "Vellingshøj --[railway]--> station: Vellingshøj"
     ]
 }
