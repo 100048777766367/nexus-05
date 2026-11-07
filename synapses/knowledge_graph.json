@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "Bears: The",
         "Luther",
         "College Seminary:",
         "Through",
@@ -99,10 +97,11 @@
         "Vellingshøj",
         "station: Vellingshøj",
         "Pterostylis",
-        "Pterostylis lingua,"
+        "Pterostylis lingua,",
+        "Arie",
+        "Arie Reich"
     ],
     "edges": [
-        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Yeatesia: --[yeatesia]--> putative genus",
         "Angle --[entry:]--> Angle Entry",
         "Jen --[pawol:]--> Jennifer Pawol",
@@ -251,6 +250,7 @@
         "Satsuma --[kiriko:]--> Satsuma kiriko",
         "Was --[manufactured]--> the Satsuma",
         "Vellingshøj --[railway]--> station: Vellingshøj",
-        "Pterostylis --[lingua:]--> Pterostylis lingua,"
+        "Pterostylis --[lingua:]--> Pterostylis lingua,",
+        "Arie --[reich:]--> Arie Reich"
     ]
 }
