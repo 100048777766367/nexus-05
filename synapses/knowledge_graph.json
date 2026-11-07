@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Luther",
-        "College Seminary:",
-        "Through",
         "college and",
         "Via",
         "The VIA",
@@ -99,11 +96,12 @@
         "Pterostylis",
         "Pterostylis lingua,",
         "Arie",
-        "Arie Reich"
+        "Arie Reich",
+        "Beth",
+        "Beth Reinhard",
+        "known"
     ],
     "edges": [
-        "Yeatesia: --[yeatesia]--> putative genus",
-        "Angle --[entry:]--> Angle Entry",
         "Jen --[pawol:]--> Jennifer Pawol",
         "She --[became]--> the first",
         "Yenimahalle --[station]--> (M3): Yenimahalle",
@@ -251,6 +249,8 @@
         "Was --[manufactured]--> the Satsuma",
         "Vellingshøj --[railway]--> station: Vellingshøj",
         "Pterostylis --[lingua:]--> Pterostylis lingua,",
-        "Arie --[reich:]--> Arie Reich"
+        "Arie --[reich:]--> Arie Reich",
+        "Beth --[reinhard:]--> Beth Reinhard",
+        "She --[best]--> known"
     ]
 }
