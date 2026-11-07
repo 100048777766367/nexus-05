@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rabbalshede:",
-        "locality situated",
         "The",
         "Bears: The",
         "Luther",
@@ -99,10 +97,11 @@
         "Satsuma kiriko",
         "the Satsuma",
         "Vellingshøj",
-        "station: Vellingshøj"
+        "station: Vellingshøj",
+        "Pterostylis",
+        "Pterostylis lingua,"
     ],
     "edges": [
-        "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Yeatesia: --[yeatesia]--> putative genus",
         "Angle --[entry:]--> Angle Entry",
@@ -251,6 +250,7 @@
         "Cypherotylus --[californicus:]--> Cypherotylus californicus,",
         "Satsuma --[kiriko:]--> Satsuma kiriko",
         "Was --[manufactured]--> the Satsuma",
-        "Vellingshøj --[railway]--> station: Vellingshøj"
+        "Vellingshøj --[railway]--> station: Vellingshøj",
+        "Pterostylis --[lingua:]--> Pterostylis lingua,"
     ]
 }
