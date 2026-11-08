@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "college and",
-        "Via",
         "The VIA",
         "Summer",
         "\"Summer Uptown\"",
@@ -99,10 +97,11 @@
         "Arie Reich",
         "Beth",
         "Beth Reinhard",
-        "known"
+        "known",
+        "Newton-with-scales:",
+        "village and"
     ],
     "edges": [
-        "Jen --[pawol:]--> Jennifer Pawol",
         "She --[became]--> the first",
         "Yenimahalle --[station]--> (M3): Yenimahalle",
         "The --[station]--> located",
@@ -251,6 +250,7 @@
         "Pterostylis --[lingua:]--> Pterostylis lingua,",
         "Arie --[reich:]--> Arie Reich",
         "Beth --[reinhard:]--> Beth Reinhard",
-        "She --[best]--> known"
+        "She --[best]--> known",
+        "Newton-with-scales: --[newton-with-scales]--> village and"
     ]
 }
