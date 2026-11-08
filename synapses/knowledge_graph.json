@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "\"Summer Uptown\"",
-        "Gimpo",
-        "Airport: Gimpo",
-        "Meridian",
         "Bigbee Railroad:",
         "People's",
         "Army (Myanmar):",
@@ -99,11 +95,13 @@
         "Newton-with-scales:",
         "village and",
         "Battle",
-        "The Battle"
+        "The Battle",
+        "Krishna:",
+        "Krishna was",
+        "Known",
+        "directing revolut"
     ],
     "edges": [
-        "Yenimahalle --[station]--> (M3): Yenimahalle",
-        "The --[station]--> located",
         "Nikolay --[baskov:]--> Nikolay Victorovich",
         "His --[honors]--> include",
         "Ten --[eyck:]--> James",
@@ -251,6 +249,8 @@
         "Beth --[reinhard:]--> Beth Reinhard",
         "She --[best]--> known",
         "Newton-with-scales: --[newton-with-scales]--> village and",
-        "Battle --[saint-pierre:]--> The Battle"
+        "Battle --[saint-pierre:]--> The Battle",
+        "Krishna: --[tottempudi]--> Krishna was",
+        "Known --[for]--> directing revolut"
     ]
 }
