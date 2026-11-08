@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The VIA",
-        "Summer",
         "\"Summer Uptown\"",
         "Gimpo",
         "Airport: Gimpo",
@@ -99,10 +97,11 @@
         "Beth Reinhard",
         "known",
         "Newton-with-scales:",
-        "village and"
+        "village and",
+        "Battle",
+        "The Battle"
     ],
     "edges": [
-        "She --[became]--> the first",
         "Yenimahalle --[station]--> (M3): Yenimahalle",
         "The --[station]--> located",
         "Nikolay --[baskov:]--> Nikolay Victorovich",
@@ -251,6 +250,7 @@
         "Arie --[reich:]--> Arie Reich",
         "Beth --[reinhard:]--> Beth Reinhard",
         "She --[best]--> known",
-        "Newton-with-scales: --[newton-with-scales]--> village and"
+        "Newton-with-scales: --[newton-with-scales]--> village and",
+        "Battle --[saint-pierre:]--> The Battle"
     ]
 }
