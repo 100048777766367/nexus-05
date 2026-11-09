@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bigbee Railroad:",
-        "People's",
         "Army (Myanmar):",
         "Yusuf",
         "Yusuf Mohamed",
@@ -99,10 +97,11 @@
         "Krishna:",
         "Krishna was",
         "Known",
-        "directing revolut"
+        "directing revolut",
+        "Swerve",
+        "Swerve was"
     ],
     "edges": [
-        "Nikolay --[baskov:]--> Nikolay Victorovich",
         "His --[honors]--> include",
         "Ten --[eyck:]--> James",
         "Ten --[eyck]--> was crew",
@@ -251,6 +250,7 @@
         "Newton-with-scales: --[newton-with-scales]--> village and",
         "Battle --[saint-pierre:]--> The Battle",
         "Krishna: --[tottempudi]--> Krishna was",
-        "Known --[for]--> directing revolut"
+        "Known --[for]--> directing revolut",
+        "Swerve --[(drink):]--> Swerve was"
     ]
 }
