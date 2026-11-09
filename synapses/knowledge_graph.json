@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Army (Myanmar):",
-        "Yusuf",
-        "Yusuf Mohamed",
-        "During",
         "life, was",
         "Denny",
         "Denzil Eugene",
@@ -99,11 +95,13 @@
         "Known",
         "directing revolut",
         "Swerve",
-        "Swerve was"
+        "Swerve was",
+        "Weber",
+        "The Weber",
+        "Can",
+        "unilateral (one-sided)"
     ],
     "edges": [
-        "His --[honors]--> include",
-        "Ten --[eyck:]--> James",
         "Ten --[eyck]--> was crew",
         "Was --[born]--> Tomkins Cove,",
         "Scuderie --[detetive]--> Cocq: Scuderie",
@@ -251,6 +249,8 @@
         "Battle --[saint-pierre:]--> The Battle",
         "Krishna: --[tottempudi]--> Krishna was",
         "Known --[for]--> directing revolut",
-        "Swerve --[(drink):]--> Swerve was"
+        "Swerve --[(drink):]--> Swerve was",
+        "Weber --[test:]--> The Weber",
+        "Can --[detect]--> unilateral (one-sided)"
     ]
 }
