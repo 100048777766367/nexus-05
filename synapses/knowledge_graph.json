@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "life, was",
-        "Denny",
         "Denzil Eugene",
         "Jones",
         "13-term member",
@@ -99,10 +97,11 @@
         "Weber",
         "The Weber",
         "Can",
-        "unilateral (one-sided)"
+        "unilateral (one-sided)",
+        "Wanhua",
+        "(Foshan Metro):"
     ],
     "edges": [
-        "Ten --[eyck]--> was crew",
         "Was --[born]--> Tomkins Cove,",
         "Scuderie --[detetive]--> Cocq: Scuderie",
         "International --[journal]--> Transgender Health:",
@@ -251,6 +250,7 @@
         "Known --[for]--> directing revolut",
         "Swerve --[(drink):]--> Swerve was",
         "Weber --[test:]--> The Weber",
-        "Can --[detect]--> unilateral (one-sided)"
+        "Can --[detect]--> unilateral (one-sided)",
+        "Wanhua --[station]--> (Foshan Metro):"
     ]
 }
