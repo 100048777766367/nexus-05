@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Denzil Eugene",
-        "Jones",
-        "13-term member",
-        "Idola",
         "Idola Saint-Jean",
         "She",
         "her life",
@@ -99,11 +95,13 @@
         "Can",
         "unilateral (one-sided)",
         "Wanhua",
-        "(Foshan Metro):"
+        "(Foshan Metro):",
+        "Shangshu",
+        "Shangshu Township",
+        "2020,",
+        "seven villa"
     ],
     "edges": [
-        "Was --[born]--> Tomkins Cove,",
-        "Scuderie --[detetive]--> Cocq: Scuderie",
         "International --[journal]--> Transgender Health:",
         "Eric --[lamaze:]--> Eric Lamaze",
         "Won --[individual]--> gold and",
@@ -251,6 +249,8 @@
         "Swerve --[(drink):]--> Swerve was",
         "Weber --[test:]--> The Weber",
         "Can --[detect]--> unilateral (one-sided)",
-        "Wanhua --[station]--> (Foshan Metro):"
+        "Wanhua --[station]--> (Foshan Metro):",
+        "Shangshu --[township:]--> Shangshu Township",
+        "2020, --[has]--> seven villa"
     ]
 }
