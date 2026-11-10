@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Idola Saint-Jean",
-        "She",
         "her life",
         "Nexus-05:",
         "biến hình",
@@ -99,10 +97,11 @@
         "Shangshu",
         "Shangshu Township",
         "2020,",
-        "seven villa"
+        "seven villa",
+        "Anal",
+        "Anal sphincterotomy"
     ],
     "edges": [
-        "International --[journal]--> Transgender Health:",
         "Eric --[lamaze:]--> Eric Lamaze",
         "Won --[individual]--> gold and",
         "Société --[française]--> Parasitologie: Société",
@@ -251,6 +250,7 @@
         "Can --[detect]--> unilateral (one-sided)",
         "Wanhua --[station]--> (Foshan Metro):",
         "Shangshu --[township:]--> Shangshu Township",
-        "2020, --[has]--> seven villa"
+        "2020, --[has]--> seven villa",
+        "Anal --[sphincterotomy:]--> Anal sphincterotomy"
     ]
 }
