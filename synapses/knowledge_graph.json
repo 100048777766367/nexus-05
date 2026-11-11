@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "biến hình",
-        "Tender",
         "Tender Hooks",
         "Elmina",
         "Museum: The",
@@ -99,10 +97,11 @@
         "Anal",
         "Anal sphincterotomy",
         "George",
-        "George Thompson"
+        "George Thompson",
+        "University",
+        "Basque Country:"
     ],
     "edges": [
-        "Won --[individual]--> gold and",
         "Société --[française]--> Parasitologie: Société",
         "Transition --[(chipmunk]--> album): Transition",
         "Was --[released]--> April 2011",
@@ -251,6 +250,7 @@
         "Shangshu --[township:]--> Shangshu Township",
         "2020, --[has]--> seven villa",
         "Anal --[sphincterotomy:]--> Anal sphincterotomy",
-        "George --[fairchild:]--> George Thompson"
+        "George --[fairchild:]--> George Thompson",
+        "University --[the]--> Basque Country:"
     ]
 }
