@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "her life",
-        "Nexus-05:",
         "biến hình",
         "Tender",
         "Tender Hooks",
@@ -99,10 +97,11 @@
         "2020,",
         "seven villa",
         "Anal",
-        "Anal sphincterotomy"
+        "Anal sphincterotomy",
+        "George",
+        "George Thompson"
     ],
     "edges": [
-        "Eric --[lamaze:]--> Eric Lamaze",
         "Won --[individual]--> gold and",
         "Société --[française]--> Parasitologie: Société",
         "Transition --[(chipmunk]--> album): Transition",
@@ -251,6 +250,7 @@
         "Wanhua --[station]--> (Foshan Metro):",
         "Shangshu --[township:]--> Shangshu Township",
         "2020, --[has]--> seven villa",
-        "Anal --[sphincterotomy:]--> Anal sphincterotomy"
+        "Anal --[sphincterotomy:]--> Anal sphincterotomy",
+        "George --[fairchild:]--> George Thompson"
     ]
 }
