@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tender Hooks",
-        "Elmina",
         "Museum: The",
         "West",
         "Eagles (AFL",
@@ -99,10 +97,11 @@
         "George",
         "George Thompson",
         "University",
-        "Basque Country:"
+        "Basque Country:",
+        "First",
+        "Peru campaign:"
     ],
     "edges": [
-        "Société --[française]--> Parasitologie: Société",
         "Transition --[(chipmunk]--> album): Transition",
         "Was --[released]--> April 2011",
         "Dirt --[candy:]--> Dirt Candy",
@@ -251,6 +250,7 @@
         "2020, --[has]--> seven villa",
         "Anal --[sphincterotomy:]--> Anal sphincterotomy",
         "George --[fairchild:]--> George Thompson",
-        "University --[the]--> Basque Country:"
+        "University --[the]--> Basque Country:",
+        "First --[upper]--> Peru campaign:"
     ]
 }
