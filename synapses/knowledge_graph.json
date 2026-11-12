@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Eagles (AFL",
-        "Strength",
         "Strength Survive",
         "Was",
         "January 31,",
@@ -99,10 +97,11 @@
         "First",
         "Peru campaign:",
         "Glatt",
-        "The Glatt"
+        "The Glatt",
+        "The",
+        "Cafe Orchestra"
     ],
     "edges": [
-        "Was --[released]--> April 2011",
         "Dirt --[candy:]--> Dirt Candy",
         "Chef --[and]--> owner Amanda",
         "Qatar --[national]--> football team:",
@@ -251,6 +250,7 @@
         "George --[fairchild:]--> George Thompson",
         "University --[the]--> Basque Country:",
         "First --[upper]--> Peru campaign:",
-        "Glatt --[group:]--> The Glatt"
+        "Glatt --[group:]--> The Glatt",
+        "The --[penguin]--> Cafe Orchestra"
     ]
 }
