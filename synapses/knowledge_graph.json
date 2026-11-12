@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Museum: The",
-        "West",
         "Eagles (AFL",
         "Strength",
         "Strength Survive",
@@ -99,10 +97,11 @@
         "University",
         "Basque Country:",
         "First",
-        "Peru campaign:"
+        "Peru campaign:",
+        "Glatt",
+        "The Glatt"
     ],
     "edges": [
-        "Transition --[(chipmunk]--> album): Transition",
         "Was --[released]--> April 2011",
         "Dirt --[candy:]--> Dirt Candy",
         "Chef --[and]--> owner Amanda",
@@ -251,6 +250,7 @@
         "Anal --[sphincterotomy:]--> Anal sphincterotomy",
         "George --[fairchild:]--> George Thompson",
         "University --[the]--> Basque Country:",
-        "First --[upper]--> Peru campaign:"
+        "First --[upper]--> Peru campaign:",
+        "Glatt --[group:]--> The Glatt"
     ]
 }
