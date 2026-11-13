@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Strength Survive",
-        "Was",
         "January 31,",
         "Libreoffice",
         "LibreOffice Calc",
@@ -99,10 +97,11 @@
         "Glatt",
         "The Glatt",
         "The",
-        "Cafe Orchestra"
+        "Cafe Orchestra",
+        "Keith",
+        "Keith Robert"
     ],
     "edges": [
-        "Dirt --[candy:]--> Dirt Candy",
         "Chef --[and]--> owner Amanda",
         "Qatar --[national]--> football team:",
         "Where --[reincarnation]--> and Biology",
@@ -251,6 +250,7 @@
         "University --[the]--> Basque Country:",
         "First --[upper]--> Peru campaign:",
         "Glatt --[group:]--> The Glatt",
-        "The --[penguin]--> Cafe Orchestra"
+        "The --[penguin]--> Cafe Orchestra",
+        "Keith --[boanas:]--> Keith Robert"
     ]
 }
