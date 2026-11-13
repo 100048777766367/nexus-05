@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Vekhi:",
-        "collection seven",
         "five editions",
         "Liu",
         "Liu Mingchuan,",
@@ -99,10 +97,11 @@
         "Florida:",
         "(US 129)",
         "Runs",
-        "(142 km)"
+        "(142 km)",
+        "Tampines",
+        "School: Tampines"
     ],
     "edges": [
-        "Jazz --[café]--> Suite: Jazz",
         "Love --[dance:]--> Love Dance",
         "Joe --[ruddy:]--> Joseph Aloysius",
         "Was --[american]--> competition swimmer,",
@@ -251,6 +250,7 @@
         "Keith --[boanas:]--> Keith Robert",
         "Route --[129]--> Florida:",
         "Route --[129]--> (US 129)",
-        "Runs --[miles]--> (142 km)"
+        "Runs --[miles]--> (142 km)",
+        "Tampines --[secondary]--> School: Tampines"
     ]
 }
