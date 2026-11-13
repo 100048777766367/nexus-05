@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "January 31,",
-        "Libreoffice",
-        "LibreOffice Calc",
-        "Fort",
-        "radar station:",
         "Vekhi:",
         "collection seven",
         "five editions",
@@ -99,12 +94,14 @@
         "The",
         "Cafe Orchestra",
         "Keith",
-        "Keith Robert"
+        "Keith Robert",
+        "Route",
+        "Florida:",
+        "(US 129)",
+        "Runs",
+        "(142 km)"
     ],
     "edges": [
-        "Chef --[and]--> owner Amanda",
-        "Qatar --[national]--> football team:",
-        "Where --[reincarnation]--> and Biology",
         "Jazz --[café]--> Suite: Jazz",
         "Love --[dance:]--> Love Dance",
         "Joe --[ruddy:]--> Joseph Aloysius",
@@ -251,6 +248,9 @@
         "First --[upper]--> Peru campaign:",
         "Glatt --[group:]--> The Glatt",
         "The --[penguin]--> Cafe Orchestra",
-        "Keith --[boanas:]--> Keith Robert"
+        "Keith --[boanas:]--> Keith Robert",
+        "Route --[129]--> Florida:",
+        "Route --[129]--> (US 129)",
+        "Runs --[miles]--> (142 km)"
     ]
 }
