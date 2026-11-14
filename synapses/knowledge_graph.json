@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ingrid Goude",
-        "actress B-movie",
         "Second Avenue:",
         "Aileen",
         "Gunther",
@@ -99,10 +97,11 @@
         "Three",
         "One: Three",
         "Romance:",
-        "2008 Thai"
+        "2008 Thai",
+        "Charles",
+        "MacMunn: Charles"
     ],
     "edges": [
-        "Was --[american]--> competition swimmer,",
         "Disconnected --[(funkstörung]--> album): Disconnected",
         "Bedlam --[(kennen]--> novel): Bedlam",
         "Was --[nominated]--> for the",
@@ -251,6 +250,7 @@
         "Runs --[miles]--> (142 km)",
         "Tampines --[secondary]--> School: Tampines",
         "Three --[sides]--> One: Three",
-        "Romance: --[romance]--> 2008 Thai"
+        "Romance: --[romance]--> 2008 Thai",
+        "Charles --[alexander]--> MacMunn: Charles"
     ]
 }
