@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "five editions",
-        "Liu",
         "Liu Mingchuan,",
         "Ingrid",
         "Ingrid Goude",
@@ -99,10 +97,11 @@
         "Runs",
         "(142 km)",
         "Tampines",
-        "School: Tampines"
+        "School: Tampines",
+        "Three",
+        "One: Three"
     ],
     "edges": [
-        "Love --[dance:]--> Love Dance",
         "Joe --[ruddy:]--> Joseph Aloysius",
         "Was --[american]--> competition swimmer,",
         "Disconnected --[(funkstörung]--> album): Disconnected",
@@ -251,6 +250,7 @@
         "Route --[129]--> Florida:",
         "Route --[129]--> (US 129)",
         "Runs --[miles]--> (142 km)",
-        "Tampines --[secondary]--> School: Tampines"
+        "Tampines --[secondary]--> School: Tampines",
+        "Three --[sides]--> One: Three"
     ]
 }
