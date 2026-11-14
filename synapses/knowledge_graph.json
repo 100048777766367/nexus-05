@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Liu Mingchuan,",
-        "Ingrid",
         "Ingrid Goude",
         "actress B-movie",
         "Second Avenue:",
@@ -99,10 +97,11 @@
         "Tampines",
         "School: Tampines",
         "Three",
-        "One: Three"
+        "One: Three",
+        "Romance:",
+        "2008 Thai"
     ],
     "edges": [
-        "Joe --[ruddy:]--> Joseph Aloysius",
         "Was --[american]--> competition swimmer,",
         "Disconnected --[(funkstörung]--> album): Disconnected",
         "Bedlam --[(kennen]--> novel): Bedlam",
@@ -251,6 +250,7 @@
         "Route --[129]--> (US 129)",
         "Runs --[miles]--> (142 km)",
         "Tampines --[secondary]--> School: Tampines",
-        "Three --[sides]--> One: Three"
+        "Three --[sides]--> One: Three",
+        "Romance: --[romance]--> 2008 Thai"
     ]
 }
