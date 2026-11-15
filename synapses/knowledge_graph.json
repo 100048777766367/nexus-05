@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Second Avenue:",
-        "Aileen",
-        "Gunther",
         "politician",
         "Democratic member",
         "Blephariceridae:",
@@ -99,11 +96,12 @@
         "Romance:",
         "2008 Thai",
         "Charles",
-        "MacMunn: Charles"
+        "MacMunn: Charles",
+        "Baleares-class",
+        "The Baleares",
+        "were"
     ],
     "edges": [
-        "Disconnected --[(funkstörung]--> album): Disconnected",
-        "Bedlam --[(kennen]--> novel): Bedlam",
         "Was --[nominated]--> for the",
         "Abelard --[snazz:]--> Abelard Snazz",
         "André --[cerbonney:]--> André Cerbonney",
@@ -251,6 +249,8 @@
         "Tampines --[secondary]--> School: Tampines",
         "Three --[sides]--> One: Three",
         "Romance: --[romance]--> 2008 Thai",
-        "Charles --[alexander]--> MacMunn: Charles"
+        "Charles --[alexander]--> MacMunn: Charles",
+        "Baleares-class --[frigate:]--> The Baleares",
+        "The --[ships]--> were"
     ]
 }
