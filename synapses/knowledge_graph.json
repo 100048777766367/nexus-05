@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "politician",
-        "Democratic member",
         "Blephariceridae:",
         "Blephariceridae, commonly",
         "rese",
@@ -99,10 +97,11 @@
         "MacMunn: Charles",
         "Baleares-class",
         "The Baleares",
-        "were"
+        "were",
+        "Victory",
+        "(Dallas): The"
     ],
     "edges": [
-        "Was --[nominated]--> for the",
         "Abelard --[snazz:]--> Abelard Snazz",
         "André --[cerbonney:]--> André Cerbonney",
         "Competed --[the]--> men's 100",
@@ -251,6 +250,7 @@
         "Romance: --[romance]--> 2008 Thai",
         "Charles --[alexander]--> MacMunn: Charles",
         "Baleares-class --[frigate:]--> The Baleares",
-        "The --[ships]--> were"
+        "The --[ships]--> were",
+        "Victory --[tower]--> (Dallas): The"
     ]
 }
