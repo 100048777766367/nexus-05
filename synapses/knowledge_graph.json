@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "NGC 150",
         "About",
         "light years",
         "Big",
@@ -99,10 +98,10 @@
         "Andriy",
         "Andriy Mykolayovych",
         "Was",
-        "Merited Artist"
+        "Merited Artist",
+        "(2001 film):"
     ],
     "edges": [
-        "Competed --[the]--> men's 100",
         "Chicago --[football]--> game: The",
         "Chicago --[football]--> game, played",
         "Arcens: --[arcens]--> commune the",
@@ -251,6 +250,7 @@
         "The --[ships]--> were",
         "Victory --[tower]--> (Dallas): The",
         "Andriy --[isayenko:]--> Andriy Mykolayovych",
-        "Was --[designated]--> Merited Artist"
+        "Was --[designated]--> Merited Artist",
+        "The --[tree]--> (2001 film):"
     ]
 }
