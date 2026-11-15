@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Blephariceridae:",
-        "Blephariceridae, commonly",
-        "rese",
-        "Ngc",
         "NGC 150",
         "About",
         "light years",
@@ -99,11 +95,13 @@
         "The Baleares",
         "were",
         "Victory",
-        "(Dallas): The"
+        "(Dallas): The",
+        "Andriy",
+        "Andriy Mykolayovych",
+        "Was",
+        "Merited Artist"
     ],
     "edges": [
-        "Abelard --[snazz:]--> Abelard Snazz",
-        "André --[cerbonney:]--> André Cerbonney",
         "Competed --[the]--> men's 100",
         "Chicago --[football]--> game: The",
         "Chicago --[football]--> game, played",
@@ -251,6 +249,8 @@
         "Charles --[alexander]--> MacMunn: Charles",
         "Baleares-class --[frigate:]--> The Baleares",
         "The --[ships]--> were",
-        "Victory --[tower]--> (Dallas): The"
+        "Victory --[tower]--> (Dallas): The",
+        "Andriy --[isayenko:]--> Andriy Mykolayovych",
+        "Was --[designated]--> Merited Artist"
     ]
 }
