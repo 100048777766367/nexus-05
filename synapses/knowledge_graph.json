@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Big",
-        "Mountains: The",
         "State",
         "near the",
         "Louis–style",
@@ -99,10 +97,11 @@
         "Merited Artist",
         "(2001 film):",
         "European",
-        "E30: European"
+        "E30: European",
+        "Je'kel",
+        "Je'Kel Reshard"
     ],
     "edges": [
-        "Chicago --[football]--> game, played",
         "Arcens: --[arcens]--> commune the",
         "Microdon --[abditus:]--> Microdon abditus",
         "Puxada --[rede:]--> Puxada rede",
@@ -251,6 +250,7 @@
         "Andriy --[isayenko:]--> Andriy Mykolayovych",
         "Was --[designated]--> Merited Artist",
         "The --[tree]--> (2001 film):",
-        "European --[route]--> E30: European"
+        "European --[route]--> E30: European",
+        "Je'kel --[foster:]--> Je'Kel Reshard"
     ]
 }
