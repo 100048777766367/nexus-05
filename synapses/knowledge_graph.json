@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "About",
-        "light years",
         "Big",
         "Mountains: The",
         "State",
@@ -99,10 +97,11 @@
         "Andriy Mykolayovych",
         "Was",
         "Merited Artist",
-        "(2001 film):"
+        "(2001 film):",
+        "European",
+        "E30: European"
     ],
     "edges": [
-        "Chicago --[football]--> game: The",
         "Chicago --[football]--> game, played",
         "Arcens: --[arcens]--> commune the",
         "Microdon --[abditus:]--> Microdon abditus",
@@ -251,6 +250,7 @@
         "Victory --[tower]--> (Dallas): The",
         "Andriy --[isayenko:]--> Andriy Mykolayovych",
         "Was --[designated]--> Merited Artist",
-        "The --[tree]--> (2001 film):"
+        "The --[tree]--> (2001 film):",
+        "European --[route]--> E30: European"
     ]
 }
