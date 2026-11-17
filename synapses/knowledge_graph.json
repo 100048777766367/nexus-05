@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Louis–style",
-        "type pizza",
         "Louis,",
         "United States,",
         "has",
@@ -99,10 +97,11 @@
         "Je'kel",
         "Je'Kel Reshard",
         "Warpath",
-        "Warpath 1951"
+        "Warpath 1951",
+        "Batocera",
+        "Batocera davidis"
     ],
     "edges": [
-        "Microdon --[abditus:]--> Microdon abditus",
         "Puxada --[rede:]--> Puxada rede",
         "Crossnore, --[north]--> Carolina: Crossnore",
         "The --[population]--> was 143",
@@ -251,6 +250,7 @@
         "The --[tree]--> (2001 film):",
         "European --[route]--> E30: European",
         "Je'kel --[foster:]--> Je'Kel Reshard",
-        "Warpath --[(film):]--> Warpath 1951"
+        "Warpath --[(film):]--> Warpath 1951",
+        "Batocera --[davidis:]--> Batocera davidis"
     ]
 }
