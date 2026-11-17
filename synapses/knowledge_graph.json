@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "State",
-        "near the",
         "Louis–style",
         "type pizza",
         "Louis,",
@@ -99,10 +97,11 @@
         "European",
         "E30: European",
         "Je'kel",
-        "Je'Kel Reshard"
+        "Je'Kel Reshard",
+        "Warpath",
+        "Warpath 1951"
     ],
     "edges": [
-        "Arcens: --[arcens]--> commune the",
         "Microdon --[abditus:]--> Microdon abditus",
         "Puxada --[rede:]--> Puxada rede",
         "Crossnore, --[north]--> Carolina: Crossnore",
@@ -251,6 +250,7 @@
         "Was --[designated]--> Merited Artist",
         "The --[tree]--> (2001 film):",
         "European --[route]--> E30: European",
-        "Je'kel --[foster:]--> Je'Kel Reshard"
+        "Je'kel --[foster:]--> Je'Kel Reshard",
+        "Warpath --[(film):]--> Warpath 1951"
     ]
 }
