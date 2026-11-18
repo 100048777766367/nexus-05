@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "has",
-        "Chase:",
-        "General Levi",
-        "Chase",
         "American fighter",
         "for",
         "John",
@@ -99,11 +95,13 @@
         "Batocera",
         "Batocera davidis",
         "Pterygoplichthys",
-        "Pterygoplichthys multiradiatus"
+        "Pterygoplichthys multiradiatus",
+        "Wang",
+        "Wang Chunbi",
+        "She",
+        "among the"
     ],
     "edges": [
-        "Crossnore, --[north]--> Carolina: Crossnore",
-        "The --[population]--> was 143",
         "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia",
         "Number --[one]--> (magazine): Number",
         "Was --[british]--> pop magazine",
@@ -251,6 +249,8 @@
         "Je'kel --[foster:]--> Je'Kel Reshard",
         "Warpath --[(film):]--> Warpath 1951",
         "Batocera --[davidis:]--> Batocera davidis",
-        "Pterygoplichthys --[multiradiatus:]--> Pterygoplichthys multiradiatus"
+        "Pterygoplichthys --[multiradiatus:]--> Pterygoplichthys multiradiatus",
+        "Wang --[chunbi:]--> Wang Chunbi",
+        "She --[was]--> among the"
     ]
 }
