@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "American fighter",
-        "for",
-        "John",
-        "Zimmerman",
         "(1843–1925)",
         "American theater",
         "the members",
@@ -99,11 +95,13 @@
         "Wang",
         "Wang Chunbi",
         "She",
-        "among the"
+        "among the",
+        "Stanley",
+        "Stanley Brereton",
+        "His",
+        "novel before"
     ],
     "edges": [
-        "Bryolymnia --[viridimedia:]--> Bryolymnia viridimedia",
-        "Number --[one]--> (magazine): Number",
         "Was --[british]--> pop magazine",
         "Ran --[for]--> nine years",
         "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
@@ -251,6 +249,8 @@
         "Batocera --[davidis:]--> Batocera davidis",
         "Pterygoplichthys --[multiradiatus:]--> Pterygoplichthys multiradiatus",
         "Wang --[chunbi:]--> Wang Chunbi",
-        "She --[was]--> among the"
+        "She --[was]--> among the",
+        "Stanley --[brereton:]--> Stanley Brereton",
+        "His --[final]--> novel before"
     ]
 }
