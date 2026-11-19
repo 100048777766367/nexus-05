@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Allotinus fabius,",
-        "Love,",
-        "Steal: Love,",
-        "1918",
         "Lakes Navy",
         "Proby",
         "singer, songwriter,",
@@ -99,11 +95,13 @@
         "Daingerfield",
         "Park: Daingerfield",
         "05140",
-        "state park"
+        "state park",
+        "Black",
+        "Institute Geological",
+        "(bhi)",
+        "corporation specializing"
     ],
     "edges": [
-        "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
-        "Found --[north]--> Ameri",
         "Cryptid --[hunters:]--> Cryptid Hunters",
         "Follows --[thirteen-year-old]--> twins Grace",
         "Meteer --[store]--> House: Meteer",
@@ -251,6 +249,8 @@
         "Stanley --[brereton:]--> Stanley Brereton",
         "His --[final]--> novel before",
         "Daingerfield --[state]--> Park: Daingerfield",
-        "05140 --[km2)]--> state park"
+        "05140 --[km2)]--> state park",
+        "Black --[hills]--> Institute Geological",
+        "(bhi) --[private]--> corporation specializing"
     ]
 }
