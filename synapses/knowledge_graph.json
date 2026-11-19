@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Lakes Navy",
-        "Proby",
-        "singer, songwriter,",
-        "Cypherotylus",
         "Cypherotylus californicus,",
         "Satsuma",
         "Satsuma kiriko",
@@ -99,11 +95,13 @@
         "Black",
         "Institute Geological",
         "(bhi)",
-        "corporation specializing"
+        "corporation specializing",
+        "Andrew",
+        "Andrew Wessel",
+        "April",
+        "1987, Six"
     ],
     "edges": [
-        "Cryptid --[hunters:]--> Cryptid Hunters",
-        "Follows --[thirteen-year-old]--> twins Grace",
         "Meteer --[store]--> House: Meteer",
         "Was --[built]--> 1808 and",
         "Wasp --[waist:]--> Wasp waist",
@@ -251,6 +249,8 @@
         "Daingerfield --[state]--> Park: Daingerfield",
         "05140 --[km2)]--> state park",
         "Black --[hills]--> Institute Geological",
-        "(bhi) --[private]--> corporation specializing"
+        "(bhi) --[private]--> corporation specializing",
+        "Andrew --[six:]--> Andrew Wessel",
+        "April --[10,]--> 1987, Six"
     ]
 }
