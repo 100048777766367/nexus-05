@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "(1843–1925)",
-        "American theater",
-        "the members",
-        "Allotinus",
         "Allotinus fabius,",
         "Love,",
         "Steal: Love,",
@@ -99,11 +95,13 @@
         "Stanley",
         "Stanley Brereton",
         "His",
-        "novel before"
+        "novel before",
+        "Daingerfield",
+        "Park: Daingerfield",
+        "05140",
+        "state park"
     ],
     "edges": [
-        "Was --[british]--> pop magazine",
-        "Ran --[for]--> nine years",
         "Cryptocephalus --[venustus:]--> Cryptocephalus venustus",
         "Found --[north]--> Ameri",
         "Cryptid --[hunters:]--> Cryptid Hunters",
@@ -251,6 +249,8 @@
         "Wang --[chunbi:]--> Wang Chunbi",
         "She --[was]--> among the",
         "Stanley --[brereton:]--> Stanley Brereton",
-        "His --[final]--> novel before"
+        "His --[final]--> novel before",
+        "Daingerfield --[state]--> Park: Daingerfield",
+        "05140 --[km2)]--> state park"
     ]
 }
