@@ -3,63 +3,63 @@
     "node_dna": {
         "identity": "100048777766367/nexus-05",
         "generation": "F5_OMNI_TRANSMUTER_NEXUS",
-        "generation_epoch": 177,
+        "generation_epoch": 178,
         "architecture": "Nexus05_Fractal_OmniTransmuter",
-        "prev_cid": "1b2215c1a9387c0dcaa7118c66ed1675a25b8eb0a4d81895c8897dd9cc9eb9197edf444bd9ac861931676ceb0ae2c77be1483cdf72dd4535f794bf8ac75885c4"
+        "prev_cid": "d96149f739a7e302c387ce50e91aebc8681e35e508d2c2fbf70b4d5de063c195890a6be56d14fa948c0208c85a7b3aa153aa5dfc7e0be194e7027633681374c7"
     },
-    "generation_epoch": 177,
-    "timestamp": 1795129895,
-    "decision": 0.5801,
+    "generation_epoch": 178,
+    "timestamp": 1795160483,
+    "decision": 0.5734,
     "command_pulse": [
-        0.5801,
-        0.4199
+        0.5734,
+        0.4266
     ],
     "transmuted_ecosystem_signals": {
         "retina": {
             "focal_matrix_2d": [
                 [
-                    0.5801,
-                    0.4199
+                    0.5734,
+                    0.4266
                 ],
                 [
-                    -0.0078,
-                    -0.0046
+                    -0.0075,
+                    -0.0045
                 ]
             ],
-            "zoom_ratio": 1.0801
+            "zoom_ratio": 1.0734
         },
         "cochlea": {
             "bandpass_filter_1d": [
-                3458.5532,
-                49509.9777
+                18338.2533,
+                20520.2107
             ],
-            "frequency_cutoff": 11602.0
+            "frequency_cutoff": 11468.0
         },
         "tactile": {
-            "nociceptive_threshold": 0.1602,
+            "nociceptive_threshold": 0.1468,
             "pain_loss_gain": 0.5
         },
         "olfactory": {
             "gpcr_ligand_affinity": [
-                3458.5532,
-                49509.9777,
-                3143.6114,
-                56328.3256
+                18338.2533,
+                20520.2107,
+                38797.1687,
+                41248.3479
             ],
             "toxicity_warning": false
         },
         "motor": {
             "action_vector": [
-                0.0801,
-                0.0801,
-                -0.124
+                0.0734,
+                0.0734,
+                -0.12
             ],
             "muscle_state": "contract"
         },
         "neuron": {
             "stigmergic_pheromone_trail": [
-                -0.0078,
-                -0.0046
+                -0.0075,
+                -0.0045
             ],
             "super_xor_masks": [
                 8489.7695,
@@ -67,14 +67,14 @@
                 11797.083,
                 4405.4392
             ],
-            "cross_plasticity_rate": 0.029
+            "cross_plasticity_rate": 0.0287
         },
         "shunya": {
             "vacuum_decay_factor": 0.999,
             "collapse_to_zero_state": false
         },
         "monad": {
-            "monadic_invariant_reflection": 0.5801
+            "monadic_invariant_reflection": 0.5734
         }
     },
     "gossip_network": [
@@ -93,5 +93,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "d96149f739a7e302c387ce50e91aebc8681e35e508d2c2fbf70b4d5de063c195890a6be56d14fa948c0208c85a7b3aa153aa5dfc7e0be194e7027633681374c7"
+    "quantum_cid": "ff2b516e66d4bde7e71438a2b1d6e7b4030db7b32f31dcd344c37fd6e6b291a2a5108601d71ae08f7192df8821fd1deb26b0db855b1e733e13e1441c66bbe5b9"
 }

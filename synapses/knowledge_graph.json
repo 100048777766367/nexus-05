@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cypherotylus californicus,",
-        "Satsuma",
         "Satsuma kiriko",
         "the Satsuma",
         "Vellingshøj",
@@ -99,10 +97,11 @@
         "Andrew",
         "Andrew Wessel",
         "April",
-        "1987, Six"
+        "1987, Six",
+        "Mrinal",
+        "Mrinal Hazarika"
     ],
     "edges": [
-        "Meteer --[store]--> House: Meteer",
         "Was --[built]--> 1808 and",
         "Wasp --[waist:]--> Wasp waist",
         "Charlie --[dees:]--> Charles Henry",
@@ -251,6 +250,7 @@
         "Black --[hills]--> Institute Geological",
         "(bhi) --[private]--> corporation specializing",
         "Andrew --[six:]--> Andrew Wessel",
-        "April --[10,]--> 1987, Six"
+        "April --[10,]--> 1987, Six",
+        "Mrinal --[hazarika:]--> Mrinal Hazarika"
     ]
 }
