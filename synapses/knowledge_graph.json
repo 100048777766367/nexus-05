@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Satsuma kiriko",
-        "the Satsuma",
         "Vellingshøj",
         "station: Vellingshøj",
         "Pterostylis",
@@ -99,10 +97,11 @@
         "April",
         "1987, Six",
         "Mrinal",
-        "Mrinal Hazarika"
+        "Mrinal Hazarika",
+        "Just",
+        "\"Just Communication\""
     ],
     "edges": [
-        "Was --[built]--> 1808 and",
         "Wasp --[waist:]--> Wasp waist",
         "Charlie --[dees:]--> Charles Henry",
         "Delirium --[(1979]--> film): Delirium",
@@ -251,6 +250,7 @@
         "(bhi) --[private]--> corporation specializing",
         "Andrew --[six:]--> Andrew Wessel",
         "April --[10,]--> 1987, Six",
-        "Mrinal --[hazarika:]--> Mrinal Hazarika"
+        "Mrinal --[hazarika:]--> Mrinal Hazarika",
+        "Just --[communication:]--> \"Just Communication\""
     ]
 }
