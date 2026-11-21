@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Vellingshøj",
-        "station: Vellingshøj",
-        "Pterostylis",
-        "Pterostylis lingua,",
         "Arie",
         "Arie Reich",
         "Beth",
@@ -99,11 +95,13 @@
         "Mrinal",
         "Mrinal Hazarika",
         "Just",
-        "\"Just Communication\""
+        "\"Just Communication\"",
+        "Pockley:",
+        "small village",
+        "About",
+        "north-east Helmsley"
     ],
     "edges": [
-        "Wasp --[waist:]--> Wasp waist",
-        "Charlie --[dees:]--> Charles Henry",
         "Delirium --[(1979]--> film): Delirium",
         "Bony --[moronie:]--> \"Bony Moronie\"",
         "Deborah --[mccarthy:]--> Deborah",
@@ -251,6 +249,8 @@
         "Andrew --[six:]--> Andrew Wessel",
         "April --[10,]--> 1987, Six",
         "Mrinal --[hazarika:]--> Mrinal Hazarika",
-        "Just --[communication:]--> \"Just Communication\""
+        "Just --[communication:]--> \"Just Communication\"",
+        "Pockley: --[pockley]--> small village",
+        "About --[mile]--> north-east Helmsley"
     ]
 }
