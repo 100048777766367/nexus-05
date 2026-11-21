@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Beth",
-        "Beth Reinhard",
         "known",
         "Newton-with-scales:",
         "village and",
@@ -99,10 +97,11 @@
         "About",
         "north-east Helmsley",
         "Favipiravir:",
-        "sold under"
+        "sold under",
+        "128th",
+        "Assault Brigade:"
     ],
     "edges": [
-        "Bony --[moronie:]--> \"Bony Moronie\"",
         "Deborah --[mccarthy:]--> Deborah",
         "Mccarthy --[american]--> diplomat and",
         "Mai --[kuraki]--> Single Collection:",
@@ -251,6 +250,7 @@
         "Just --[communication:]--> \"Just Communication\"",
         "Pockley: --[pockley]--> small village",
         "About --[mile]--> north-east Helmsley",
-        "Favipiravir: --[favipiravir,]--> sold under"
+        "Favipiravir: --[favipiravir,]--> sold under",
+        "128th --[mountain]--> Assault Brigade:"
     ]
 }
