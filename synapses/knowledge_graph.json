@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Arie",
-        "Arie Reich",
         "Beth",
         "Beth Reinhard",
         "known",
@@ -99,10 +97,11 @@
         "Pockley:",
         "small village",
         "About",
-        "north-east Helmsley"
+        "north-east Helmsley",
+        "Favipiravir:",
+        "sold under"
     ],
     "edges": [
-        "Delirium --[(1979]--> film): Delirium",
         "Bony --[moronie:]--> \"Bony Moronie\"",
         "Deborah --[mccarthy:]--> Deborah",
         "Mccarthy --[american]--> diplomat and",
@@ -251,6 +250,7 @@
         "Mrinal --[hazarika:]--> Mrinal Hazarika",
         "Just --[communication:]--> \"Just Communication\"",
         "Pockley: --[pockley]--> small village",
-        "About --[mile]--> north-east Helmsley"
+        "About --[mile]--> north-east Helmsley",
+        "Favipiravir: --[favipiravir,]--> sold under"
     ]
 }
