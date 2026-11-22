@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "village and",
-        "Battle",
         "The Battle",
         "Krishna:",
         "Krishna was",
@@ -99,10 +97,11 @@
         "128th",
         "Assault Brigade:",
         "Cord",
-        "Cord William"
+        "Cord William",
+        "Slađana",
+        "Slađana Bulatović"
     ],
     "edges": [
-        "Mccarthy --[american]--> diplomat and",
         "Mai --[kuraki]--> Single Collection:",
         "Múcura --[island:]--> Múcura Island",
         "Inertial --[confinement]--> fusion: Inertial",
@@ -251,6 +250,7 @@
         "About --[mile]--> north-east Helmsley",
         "Favipiravir: --[favipiravir,]--> sold under",
         "128th --[mountain]--> Assault Brigade:",
-        "Cord --[sandberg:]--> Cord William"
+        "Cord --[sandberg:]--> Cord William",
+        "Slađana --[bulatović:]--> Slađana Bulatović"
     ]
 }
