@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "known",
-        "Newton-with-scales:",
         "village and",
         "Battle",
         "The Battle",
@@ -99,10 +97,11 @@
         "Favipiravir:",
         "sold under",
         "128th",
-        "Assault Brigade:"
+        "Assault Brigade:",
+        "Cord",
+        "Cord William"
     ],
     "edges": [
-        "Deborah --[mccarthy:]--> Deborah",
         "Mccarthy --[american]--> diplomat and",
         "Mai --[kuraki]--> Single Collection:",
         "Múcura --[island:]--> Múcura Island",
@@ -251,6 +250,7 @@
         "Pockley: --[pockley]--> small village",
         "About --[mile]--> north-east Helmsley",
         "Favipiravir: --[favipiravir,]--> sold under",
-        "128th --[mountain]--> Assault Brigade:"
+        "128th --[mountain]--> Assault Brigade:",
+        "Cord --[sandberg:]--> Cord William"
     ]
 }
