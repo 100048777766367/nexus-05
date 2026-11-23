@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Battle",
-        "Krishna:",
         "Krishna was",
         "Known",
         "directing revolut",
@@ -99,10 +97,11 @@
         "Cord",
         "Cord William",
         "Slađana",
-        "Slađana Bulatović"
+        "Slađana Bulatović",
+        "2016",
+        "Judo Championships:"
     ],
     "edges": [
-        "Mai --[kuraki]--> Single Collection:",
         "Múcura --[island:]--> Múcura Island",
         "Inertial --[confinement]--> fusion: Inertial",
         "Lake --[r'kiz:]--> Lake R'Kiz",
@@ -251,6 +250,7 @@
         "Favipiravir: --[favipiravir,]--> sold under",
         "128th --[mountain]--> Assault Brigade:",
         "Cord --[sandberg:]--> Cord William",
-        "Slađana --[bulatović:]--> Slađana Bulatović"
+        "Slađana --[bulatović:]--> Slađana Bulatović",
+        "2016 --[european]--> Judo Championships:"
     ]
 }
