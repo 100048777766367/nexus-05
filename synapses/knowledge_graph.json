@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Krishna was",
-        "Known",
-        "directing revolut",
         "Swerve",
         "Swerve was",
         "Weber",
@@ -99,11 +96,12 @@
         "Slađana",
         "Slađana Bulatović",
         "2016",
-        "Judo Championships:"
+        "Judo Championships:",
+        "Dick",
+        "Richard O'Neal",
+        "college player"
     ],
     "edges": [
-        "Múcura --[island:]--> Múcura Island",
-        "Inertial --[confinement]--> fusion: Inertial",
         "Lake --[r'kiz:]--> Lake R'Kiz",
         "45866: --[45866,]--> also designated",
         "Cirrus --[airframe]--> Parachute System:",
@@ -251,6 +249,8 @@
         "128th --[mountain]--> Assault Brigade:",
         "Cord --[sandberg:]--> Cord William",
         "Slađana --[bulatović:]--> Slađana Bulatović",
-        "2016 --[european]--> Judo Championships:"
+        "2016 --[european]--> Judo Championships:",
+        "Dick --[o'neal:]--> Richard O'Neal",
+        "Was --[all-american]--> college player"
     ]
 }
