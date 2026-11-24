@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Swerve",
-        "Swerve was",
         "Weber",
         "The Weber",
         "Can",
@@ -99,10 +97,11 @@
         "Judo Championships:",
         "Dick",
         "Richard O'Neal",
-        "college player"
+        "college player",
+        "Robert",
+        "3rd Baron"
     ],
     "edges": [
-        "Lake --[r'kiz:]--> Lake R'Kiz",
         "45866: --[45866,]--> also designated",
         "Cirrus --[airframe]--> Parachute System:",
         "Julie --[dzerowicz:]--> Juliana Roma",
@@ -251,6 +250,7 @@
         "Slađana --[bulatović:]--> Slađana Bulatović",
         "2016 --[european]--> Judo Championships:",
         "Dick --[o'neal:]--> Richard O'Neal",
-        "Was --[all-american]--> college player"
+        "Was --[all-american]--> college player",
+        "Robert --[yarburgh-bateson,]--> 3rd Baron"
     ]
 }
