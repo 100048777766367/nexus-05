@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Weber",
-        "The Weber",
-        "Can",
-        "unilateral (one-sided)",
         "Wanhua",
         "(Foshan Metro):",
         "Shangshu",
@@ -99,11 +95,13 @@
         "Richard O'Neal",
         "college player",
         "Robert",
-        "3rd Baron"
+        "3rd Baron",
+        "New",
+        "State Route",
+        "Km)",
+        "state highway"
     ],
     "edges": [
-        "45866: --[45866,]--> also designated",
-        "Cirrus --[airframe]--> Parachute System:",
         "Julie --[dzerowicz:]--> Juliana Roma",
         "Hempstead --[county]--> Courthouse: The",
         "Audition --[109:]--> Audition 109",
@@ -251,6 +249,8 @@
         "2016 --[european]--> Judo Championships:",
         "Dick --[o'neal:]--> Richard O'Neal",
         "Was --[all-american]--> college player",
-        "Robert --[yarburgh-bateson,]--> 3rd Baron"
+        "Robert --[yarburgh-bateson,]--> 3rd Baron",
+        "New --[york]--> State Route",
+        "Km) --[long]--> state highway"
     ]
 }
