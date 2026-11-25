@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wanhua",
-        "(Foshan Metro):",
         "Shangshu",
         "Shangshu Township",
         "2020,",
@@ -99,10 +97,11 @@
         "New",
         "State Route",
         "Km)",
-        "state highway"
+        "state highway",
+        "Hjorthagen:",
+        "district the"
     ],
     "edges": [
-        "Julie --[dzerowicz:]--> Juliana Roma",
         "Hempstead --[county]--> Courthouse: The",
         "Audition --[109:]--> Audition 109",
         "Ken --[lacosse:]--> Ken LaCosse",
@@ -251,6 +250,7 @@
         "Was --[all-american]--> college player",
         "Robert --[yarburgh-bateson,]--> 3rd Baron",
         "New --[york]--> State Route",
-        "Km) --[long]--> state highway"
+        "Km) --[long]--> state highway",
+        "Hjorthagen: --[hjorthagen]--> district the"
     ]
 }
