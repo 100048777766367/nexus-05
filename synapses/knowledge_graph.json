@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Shangshu",
-        "Shangshu Township",
         "2020,",
         "seven villa",
         "Anal",
@@ -99,10 +97,11 @@
         "Km)",
         "state highway",
         "Hjorthagen:",
-        "district the"
+        "district the",
+        "Eliot",
+        "Bridge: The"
     ],
     "edges": [
-        "Hempstead --[county]--> Courthouse: The",
         "Audition --[109:]--> Audition 109",
         "Ken --[lacosse:]--> Ken LaCosse",
         "Known --[particularly]--> for developing",
@@ -251,6 +250,7 @@
         "Robert --[yarburgh-bateson,]--> 3rd Baron",
         "New --[york]--> State Route",
         "Km) --[long]--> state highway",
-        "Hjorthagen: --[hjorthagen]--> district the"
+        "Hjorthagen: --[hjorthagen]--> district the",
+        "Eliot --[memorial]--> Bridge: The"
     ]
 }
