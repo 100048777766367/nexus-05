@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "2020,",
-        "seven villa",
-        "Anal",
-        "Anal sphincterotomy",
         "George",
         "George Thompson",
         "University",
@@ -99,11 +95,13 @@
         "Hjorthagen:",
         "district the",
         "Eliot",
-        "Bridge: The"
+        "Bridge: The",
+        "Zhangixalus",
+        "Zhangixalus viridis",
+        "Endemic",
+        "Ryukyu Islands,"
     ],
     "edges": [
-        "Audition --[109:]--> Audition 109",
-        "Ken --[lacosse:]--> Ken LaCosse",
         "Known --[particularly]--> for developing",
         "Anthony --[and]--> Louise Viaer",
         "Joseph's --[cathedral,]--> Dunedin: Joseph's",
@@ -251,6 +249,8 @@
         "New --[york]--> State Route",
         "Km) --[long]--> state highway",
         "Hjorthagen: --[hjorthagen]--> district the",
-        "Eliot --[memorial]--> Bridge: The"
+        "Eliot --[memorial]--> Bridge: The",
+        "Zhangixalus --[viridis:]--> Zhangixalus viridis",
+        "Endemic --[the]--> Ryukyu Islands,"
     ]
 }
