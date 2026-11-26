@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "George",
-        "George Thompson",
-        "University",
-        "Basque Country:",
         "First",
         "Peru campaign:",
         "Glatt",
@@ -99,11 +95,13 @@
         "Zhangixalus",
         "Zhangixalus viridis",
         "Endemic",
-        "Ryukyu Islands,"
+        "Ryukyu Islands,",
+        "Nabaneeta",
+        "Sen: Nabaneeta",
+        "After",
+        "arts and"
     ],
     "edges": [
-        "Known --[particularly]--> for developing",
-        "Anthony --[and]--> Louise Viaer",
         "Joseph's --[cathedral,]--> Dunedin: Joseph's",
         "Located --[city]--> Rise the",
         "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,",
@@ -251,6 +249,8 @@
         "Hjorthagen: --[hjorthagen]--> district the",
         "Eliot --[memorial]--> Bridge: The",
         "Zhangixalus --[viridis:]--> Zhangixalus viridis",
-        "Endemic --[the]--> Ryukyu Islands,"
+        "Endemic --[the]--> Ryukyu Islands,",
+        "Nabaneeta --[dev]--> Sen: Nabaneeta",
+        "After --[studying]--> arts and"
     ]
 }
