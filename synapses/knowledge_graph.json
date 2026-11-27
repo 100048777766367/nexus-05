@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "First",
-        "Peru campaign:",
         "Glatt",
         "The Glatt",
         "The",
@@ -99,10 +97,11 @@
         "Nabaneeta",
         "Sen: Nabaneeta",
         "After",
-        "arts and"
+        "arts and",
+        "Samastipur–muzaffarpur",
+        "The Samastipur–Muzaffarpur"
     ],
     "edges": [
-        "Joseph's --[cathedral,]--> Dunedin: Joseph's",
         "Located --[city]--> Rise the",
         "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,",
         "Bet --[\"bet]--> hip-hop song",
@@ -251,6 +250,7 @@
         "Zhangixalus --[viridis:]--> Zhangixalus viridis",
         "Endemic --[the]--> Ryukyu Islands,",
         "Nabaneeta --[dev]--> Sen: Nabaneeta",
-        "After --[studying]--> arts and"
+        "After --[studying]--> arts and",
+        "Samastipur–muzaffarpur --[section:]--> The Samastipur–Muzaffarpur"
     ]
 }
