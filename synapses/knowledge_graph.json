@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "Cafe Orchestra",
         "Keith",
         "Keith Robert",
         "Route",
@@ -99,10 +97,11 @@
         "Samastipur–muzaffarpur",
         "The Samastipur–Muzaffarpur",
         "Caulerpa",
-        "Caulerpa cactoides"
+        "Caulerpa cactoides",
+        "Herbert",
+        "1st Baron"
     ],
     "edges": [
-        "Aphelodoris --[brunnea:]--> Aphelodoris brunnea,",
         "Bet --[\"bet]--> hip-hop song",
         "Taken --[from]--> his debut",
         "Presents: --[the]--> Adventures",
@@ -251,6 +250,7 @@
         "Nabaneeta --[dev]--> Sen: Nabaneeta",
         "After --[studying]--> arts and",
         "Samastipur–muzaffarpur --[section:]--> The Samastipur–Muzaffarpur",
-        "Caulerpa --[cactoides:]--> Caulerpa cactoides"
+        "Caulerpa --[cactoides:]--> Caulerpa cactoides",
+        "Herbert --[austin,]--> 1st Baron"
     ]
 }
